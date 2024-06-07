@@ -1,0 +1,328 @@
+Animal Rage:
+Actions: 1
+Traits: Barbarian, Concentrate, Polymorph, Primal, Rage, Transmutation
+
+Prerequisites: animal instinct
+
+You transform into your animal. You gain the effects of the 3rd-level animal form spell except you use your own statistics, temporary Hit Points, and unarmed attacks instead of those granted by animal form. You also retain the constant abilities of your gear. If your animal is a frog, your tongue’s reach increases to 15 feet. Dismissing the transformation gains the rage trait.
+
+Furious Bully:
+Prerequisites: master in Athletics
+
+You bully foes across the battlefield. While raging, you gain a +2 circumstance bonus to Athletics checks for attack actions.
+
+Renewed Vigor:
+Actions: 1
+Traits: Barbarian, Concentrate, Rage
+
+You pause to recover your raging vigor. You gain temporary Hit Points equal to half your level plus your Constitution modifier.
+
+Share Rage:
+Actions: 1
+Traits: Auditory, Barbarian, Rage, Visual
+
+Sudden Leap:
+Actions: 2
+Traits: Barbarian, Fighter
+
+You make an impressive leap and swing while you soar. Make a Leap, High Jump, or Long Jump and attempt one melee Strike at any point during your jump. Immediately after the Strike, you fall to the ground if you're in the air, even if you haven't reached the maximum distance of your jump. If the distance you fall is no more than the height of your jump, you take no damage and land upright.
+
+When attempting a High Jump or Long Jump during a Sudden Leap, determine the DC using the Long Jump DCs, and increase your maximum distance to double your Speed.
+
+Special: If you have Felling Strike, you can spend 3 actions to make a Sudden Leap and use Felling Strike instead of a normal Strike.
+
+Thrash:
+Actions: 1
+Traits: Barbarian, Rage
+
+Requirements: You have a foe grabbed.
+
+You thrash the grabbed foe around. It takes bludgeoning damage equal to your Strength modifier plus your weapon specialization damage plus your Rage damage. The foe must attempt a basic Fortitude save against your class DC.
+
+Eclectic Skill:
+Prerequisites: polymath muse; master in Occultism
+
+Your broad experiences translate to a range of skills. Your proficiency bonus to untrained skill checks is equal to your level. You can attempt any skill check that normally requires you to be trained, even if you are untrained. If you have legendary proficiency in Occultism, you can attempt any skill check that normally requires you to have expert proficiency, even if untrained or trained.
+
+Inspire Heroics:
+Prerequisites: maestro muse
+
+Your performances inspire even greater deeds in your allies. You learn the inspire heroics metamagic focus spell. Increase the number of Focus Points in your focus pool by 1.
+
+Know-It-All:
+Prerequisites: [Bard] enigma muse
+
+When you succeed at a check to Recall Knowledge, you gain additional information or context. When you critically succeed at a check to Recall Knowledge, you get additional information or context or can ask an additional follow-up question (the GM chooses which).
+
+Advanced Deity's Domain:
+Prerequisites: Deity's Domain
+
+Through your conviction, you have glimpsed the deeper secrets of your deity’s domain. You gain an advanced domain spell from the domain you chose with Deity’s Domain. You can cast that spell as a devotion spell. Increase the number of Focus Points in your focus pool by 1.
+
+Greater Mercy:
+Prerequisites: Mercy
+
+Your faith enhances your ability to remove conditions. When you use Mercy, you can instead attempt to counteract the blinded, deafened, sickened, or slowed conditions.
+
+Heal Mount:
+Prerequisites: divine ally (steed); devotion spell (lay on hands)
+
+Your devotion to your mount manifests as a surge of positive energy. When you cast lay on hands on your mount, you can restore 10 Hit Points, plus 10 for each heightened level.
+
+Quick Shield Block:
+Prerequisites: Shield Block
+
+You can bring your shield into place with hardly a thought. At the start of each of your turns, you gain an additional reaction that you can use only to Shield Block.
+
+Second Ally:
+Prerequisites: divine ally
+
+Your inner grace attracts the attention of a second protective spirit. Choose a second type of divine ally and gain its benefits.
+
+Sense Evil:
+Prerequisites: tenets of good
+
+You sense evil as a queasy or foreboding feeling. When in the presence of an aura of evil that is powerful or overwhelming, you eventually detect the aura, though you might not do so instantly, and you can't pinpoint the location. This acts as a vague sense, similar to humans' sense of smell. An evil creature using a disguise or otherwise trying to hide its presence attempts a Deception check against your Perception DC to hide its aura from you. If the creature succeeds at its Deception check, it is then temporarily immune to your Sense Evil for 1 day.
+
+Advanced Domain:
+Prerequisites: Domain Initiate
+
+Your studies or prayers have unlocked deeper secrets of your deity’s domain. You gain an advanced domain spell from one of your domains. Increase the number of Focus Points in your focus pool by 1.
+
+Special: You can select this feat multiple times. Each time, you must select a different advanced domain spell from a domain for which you have an initial domain spell.
+
+Align Armament:
+Actions: 1
+Traits: Cleric, Divine, Evocation
+
+Frequency: once per round
+Prerequisites: chaotic, evil, good, or lawful deity
+
+You bring a weapon into metaphysical concordance with your deity’s beliefs. When you select this feat, choose chaotic, evil, good, or lawful. Your choice must match one of your deity’s alignment components. This action has the trait corresponding to the chosen alignment component.
+
+When you use this action, you touch a weapon. For 1 round, that weapon deals an additional 1d6 damage of the chosen type to creatures of the opposed alignment. For example, if you chose good, the weapon would deal an extra 1d6 good damage to evil creatures. If you Align an Armament again, any previously aligned armament loses its additional damage.
+
+Special: You can select this feat a second time, choosing your deity’s other alignment component. When you Align an Armament, you can choose either alignment component.
+
+Channeled Succor:
+Prerequisites: healing font
+
+You can remove conditions with divine grace. You can sacrifice one heal spell you’ve prepared in your extra slots from healing font to cast one of the following spells instead: remove curse, remove disease, remove paralysis, or restoration. The spell is heightened to the same level as the heal spell you sacrificed.
+
+Cremate Undead:
+Your positive energy sets undead alight. When you use a heal spell to damage undead, each undead that takes damage also takes persistent fire damage equal to the spell’s level.
+
+Emblazon Energy:
+Prerequisites: Emblazon Armament
+
+With elemental forces, you make your emblazoned symbols more potent. When you Emblazon an Armament, you can choose from the following effects instead of the effects listed in that feat. These effects have the same restrictions as the base options.
+- Shield Choose acid, cold, electricity, fire, or sonic. The wielder gain the shield’s circumstance bonus to saving throws against that damage type and can use Shield Block against damage of that type. The shield also gains resistance to that damage type equal to half your level if you have a domain spell with a trait matching that type (such as fire).
+- Weapon Choose acid, cold, electricity, fire, or sonic. The weapon deals an extra 1d4 damage of that type. Increase this extra damage to 1d6 if you have a domain spell with a trait matching that type (such as fire).
+
+Ferocious Shape:
+Prerequisites: Wild Shape
+
+You have mastered the shape of ferocious dinosaurs. Add the forms listed in dinosaur form to your wild shape list. Whenever you use wild shape to take a form that grants you a specific Athletics modifier, you gain a +1 status bonus to your Athletics checks.
+
+Fey Caller:
+You have learned some of the tricks the fey use to bend primal magic toward illusions and trickery. Add illusory disguise, illusory object, illusory scene, and veil to your spell list as primal spells.
+
+Incredible Companion (Druid):
+Prerequisites: Mature Animal Companion (Druid)
+
+Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
+
+Soaring Shape:
+Prerequisites: Wild Shape
+
+Wings free you from the shackles of the ground below. Add the bat and bird forms in aerial form to your wild shape list. If you have Insect Shape, you also add the wasp form to your wild shape list. If you have Ferocious Shape, you also add the pterosaur form to your wild shape list. Whenever you use wild shape to gain a form that grants you a specific Acrobatics modifier, you gain a +1 status bonus to Acrobatics checks.
+
+Wind Caller:
+Prerequisites: storm order
+
+You bid the winds to lift and carry you through the air. You gain the stormwind flight order spell. Increase the number of Focus Points in your focus pool by 1.
+
+Blind-Fight:
+Prerequisites: master in Perception
+
+Your battle instincts make you more aware of concealed and invisible opponents. You don't need to succeed at a flat check to target concealed creatures. You're not flat-footed to creatures that are hidden from you (unless you're flat-footed to them for reasons other than the hidden condition), and you need only a successful DC 5 flat check to target a hidden creature.
+
+While you're adjacent to an undetected creature of your level or lower, it is instead only hidden from you.
+
+Dualing Riposte:
+Actions: Reaction
+Traits: Fighter
+
+Prerequisites: Dueling Parry (Fighter)
+Trigger: A creature within your reach critically fails a Strike against you.
+Requirements: You are benefiting from Dueling Parry.
+
+You riposte against your flailing enemy. Make a melee Strike against or attempt to Disarm the triggering creature.
+
+Felling Strike:
+Actions: 2
+Traits: Fighter
+
+Your attack can ground an airborne foe. Make a Strike. If it hits and deals damage to a flying target, the target falls up to 120 feet. The fall is gradual enough that if it causes the target to hit the ground, the target takes no damage from the fall. If the attack is a critical hit, the target can't Fly, Leap, levitate, or otherwise leave the ground until the end of your next turn.
+
+Incredible Aim:
+Actions: 2
+Traits: Concentrate, Fighter
+
+By spending a moment to focus, you can ensure your attack strikes true. Make a ranged weapon Strike. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore the target's concealed condition.
+
+Mobile Shot Stance:
+Actions: 1
+Traits: Fighter, Stance
+
+Your shots become nimble and deadly. While you're in this stance, your ranged Strikes don't trigger Attacks of Opportunity or other reactions that are triggered by a ranged attack.
+
+If you have Attack of Opportunity, you can use it with a loaded ranged weapon you're wielding. The triggering creature must be within 5 feet of you for you to do so.
+
+Positioning Assault:
+Actions: 2
+Traits: Fighter, Flourishing
+
+Requirements: You are wielding a two-handed melee weapon and your target is within your reach.
+
+With punishing blows, you force your opponent into position. Make a Strike with the required weapon. If you hit, you move the target 5 feet into a space in your reach. This follows the forced movement rules.
+
+Arrow Snatching:
+Prerequisites: Deflect Arrow
+
+You pluck missiles from the air and hurl them back at their source. When you successfully deflect an attack with Deflect Arrow, as part of that reaction, you can immediately make a ranged Strike against the attacker using the projectile you deflected. This is a thrown weapon with the same range increment and effect on a hit as the triggering attack.
+
+Ironblood Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Requirements: You are unarmored.
+
+You enter the stance of impenetrable iron, refusing to yield to any blow. You can make iron sweep unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the nonlethal, parry, sweep, and unarmed traits.
+
+While in Ironblood Stance, you gain resistance 2 to all damage. The resistance increases to 3 at 12th level, to 4 at 16th level, and to 5 at 20th level.
+
+Mixed Maneuver:
+Actions: 2
+Traits:
+
+Prerequisites: master in Athletics
+
+You combine two different maneuvers together into a single flowing whole. Choose any two of Grapple, Shove, and Trip. Attempt both of the attacks you chose against the same or different creatures, but don’t apply the multiple attack penalty until after resolving both attacks.
+
+Tangled Forest-Stance:
+Actions: Monk, Stance
+
+Requirements: You are unarmored.
+
+You extend your arms like gnarled branches to interfere with your foes’ movements. You can make lashing branch unarmed attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.
+
+While you’re in Tangled Forest Stance and can act, every enemy in your reach that tries to move away from you must succeed at a Reflex save, Acrobatics check, or Athletics check against your class DC or be immobilized for that action. If you prefer, you can allow the enemy to move.
+
+Wall Run:
+Actions: 1
+Traits: Monk
+
+You defy gravity, traversing vertical planes as easily as the ground. Stride up to your Speed. You must start your movement on a horizontal surface. During this movement, you can run up vertical surfaces, like walls, at your full Speed. If you end the Stride off the ground, you fall after taking your next action or when your turn ends, whichever comes first (though you can Grab an Edge, if applicable). If you have Water Step or a similar ability, Wall Run lets you run along flimsy vertical surfaces, as well as vertical liquids, such as a waterfall.
+
+Wild Winds Initiate:
+Prerequisites: ki spells
+
+You learn a mystical stance that lets you attack from a distance. You gain the wild winds stance ki spell. Increase the number of Focus Points in your focus pool by 1. While entering the stance is a ki spell, the wind crash Strikes the stance grants are not, so you can use them as often as you like while in the stance.
+
+Deadly Aim:
+Actions: 1
+Traits: Open, Ranger
+
+Prerequisites: weapon specialization
+
+You aim for your prey’s weak spots, making your shot more challenging but dealing more damage if you hit. Make a ranged Strike against your hunted prey at a –2 penalty. You gain a +4 circumstance bonus to damage on that Strike. This bonus increases to +6 at 11th level and +8 at 15th level.
+
+Hazard Finder:
+You have an intuitive ability to sense hazards. You gain a +1 circumstance bonus to Perception checks to find traps and hazards, to AC against their attacks, and to saves against their effects. You can find hazards that would normally require you to Search even if you aren’t Searching.
+
+Powerful Snares:
+Prerequisites: master in Crafting; Snare Specialist
+
+Your snares are particularly difficult for enemies to avoid. When you set a snare, the saving throw DC for that snare is equal to its normal DC or your class DC, whichever is higher.
+
+Terrain Master:
+Prerequisites: master in Survival; Favored Terrain
+
+You adapt to your surroundings in any natural terrain. You can spend 1 hour practicing in your current terrain in order to make it your favored terrain, replacing your current favored terrain temporarily. If you spend a full day out of the new favored terrain, your favored terrain reverts back to your original choice when you took the Favored Terrain feat.
+
+Warden's Boon:
+Actions: 1
+Traits: Ranger
+
+By pointing out vulnerabilities, you grant the benefits listed in Hunt Prey and your hunter’s edge benefit to an ally until the end of their next turn. Depending on whether you call out or use gestures, this action gains either the auditory or visual trait.
+
+Delay Trap:
+Actions: Reaction
+Traits: Rogue
+
+Trigger: A trap within your reach is triggered.
+
+You can jam the workings of a trap to delay its effects. Attempt a Thievery check to Disable a Device on the trap; the DC to do so is increased by 5, and the effects are as follows.
+
+Critical Success: You prevent the trap from being triggered, or you delay the activation until the start or end of your next turn (your choice).
+Success: You prevent the trap from being triggered, or you delay the activation until the end of your next turn (whichever is worse for you; GM’s choice).
+Failure: No effect.
+Critical Failure: You’re flat-footed until the start of your next turn.
+
+Improved Poison Wepaon:
+Prerequisites: Poison Weapon
+
+You deliver poisons in ways that maximize their harmful effects. When you apply a simple poison with Poison Weapon, the poison deals 2d4 poison damage instead of 1d4 poison damage. You don’t waste a poison you apply with Poison Weapon on a critically failed attack roll.
+
+Nimble Roll:
+Prerequisites: Nimble Dodge
+
+You throw yourself into a roll to escape imminent danger. You can use Nimble Dodge before attempting a Reflex save in addition to its original trigger. If you do, the circumstance bonus applies to your Reflex save against the triggering effect.
+
+When you use Nimble Dodge and the triggering attack fails or critically fails, or when you succeed or critically succeed at the saving throw, you can also Stride up to 10 feet as part of the reaction. If you do, the reaction gains the move trait. You can use Nimble Roll while Flying or Swimming instead of Striding if you have the corresponding movement type.
+
+Oppurtune Backstab:
+Actions: Reaction
+Traits: Rogue
+
+Trigger: A creature within your melee reach is hit by a melee attack from one of your allies.
+When your enemy is hit by your ally, you capitalize upon the distraction. Make a Strike against the triggering creature.
+
+Sidestep:
+Actions: Reaction
+Traits: Rogue
+
+Trigger: The attack roll for a Strike targeting you fails or critically fails.
+
+You deftly step out of the way of an attack, letting the blow continue to the creature next to you. You redirect the attack to a creature of your choice that is adjacent to you and within the reach of the triggering attack. The attacker rerolls the Strike’s attack roll against the new target.
+
+Sly Striker:
+Prerequisites: sneak attack
+
+Your attacks deal more damage, even against creatures that aren’t flat-footed. When you succeed or critically succeed at a Strike against a creature that isn’t flat-footed, you also deal 1d6 precision damage. This applies only if you’re using a weapon or unarmed attack you could deal sneak attack damage with. At 14th level, if you would normally deal 3d6 or more sneak attack damage to flat-footed creatures, you deal 2d6 precision damage to creatures that aren’t flat-footed.
+
+Bloodline Resistance:
+Your magical blood makes you more resistant to magic. You gain a +1 status bonus to saving throws against spells and magical effects.
+
+Crossblooded Evolution:
+Odd interactions in your bloodline provide you with unexpected spells. You can have one spell in your spell repertoire from a tradition other than the one that matches your bloodline. You cast that spell as a spell from your bloodline’s tradition. You can swap which spell you add and from which tradition as you could any other sorcerer spell, but you can’t have more than one spell from another tradition in your spell repertoire at the same time using this feat.
+
+Advanced School Spell:
+Prerequisites: arcane school
+
+You gain access to a powerful new school spell depending on your arcane school. If you’re an abjurer, you gain energy absorption; if you’re a conjurer, you gain dimensional steps; if you’re a diviner, you gain vigilant eye; if you’re an enchanter, you gain dread aura; if you’re an evoker, you gain elemental tempest; if you’re an illusionist, you gain invisibility cloak; if you’re a necromancer, you gain life siphon; and if you’re a transmuter, you gain shifting form. Increase the number of Focus Points in your focus pool by 1.
+
+Bond Conservation:
+Actions: 1
+Traits: Manipulate, Metamagic, Wizard
+
+Prerequisites: arcane bond
+Requirements: The last action you used was Drain Bonded Item.
+
+By carefully manipulating the arcane energies stored in your bonded item as you drain it, you can conserve just enough power to cast another, slightly weaker spell. If the next action you use is to Cast a Spell using the energy from Drain Bonded Item, you gain an extra use of Drain Bonded Item. You must use this extra use of Drain Bonded Item before the end of your next turn or you lose it, and you can use this additional use only to cast a spell 2 or more levels lower than the first spell cast with Drain Bonded Item.
+
+Universal Versatility:
+Prerequisites: universalist wizard; Hand of the Apprentice
+
+You can access the fundamental abilities of any school of magic. During your daily preparations, choose one of the eight school spells gained by 1st-level specialist wizards. You can use that school spell until your next daily preparations. When you Refocus, you can choose a different school spell from among those eight school spells, replacing the previous one. Increase the number of Focus Points in your focus pool by 1.

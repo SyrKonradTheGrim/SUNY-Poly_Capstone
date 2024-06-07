@@ -1,0 +1,521 @@
+Human:
+As unpredictable and varied as any of Golarion’s peoples, humans have exceptional drive and the capacity to endure and expand. Though many civilizations thrived before humanity rose to prominence, humans have built some of the greatest and the most terrible societies throughout the course of history, and today they are the most populous people in the realms around the Inner Sea.
+
+Humans’ ambition, versatility, and exceptional potential have led to their status as the world’s predominant ancestry. Their empires and nations are vast, sprawling things, and their citizens carve names for themselves with the strength of their sword arms and the power of their spells. Humanity is diverse and tumultuous, running the gamut from nomadic to imperial, sinister to saintly. Many of them venture forth to explore, to map the expanse of the multiverse, to search for long-lost treasure, or to lead mighty armies to conquer their neighbors—for no better reason than because they can.
+
+If you want a character who can be just about anything, you should play a human.
+
+Size: Medium
+Speed: 25
+
+Ability Boosts: Two free ability boosts
+
+Racial Ability: Low-Light Vision
+
+Elf:
+Elves are a tall, long-lived people with a strong tradition of art and magic.
+
+As an ancient people, elves have seen great change and have the perspective that can come only from watching the arc of history. After leaving Golarion in ancient times, they returned to a changed land, and they still struggle to reclaim their ancestral homes. Elves value kindness, intellect, and beauty, with many elves striving to improve their manners, appearance, and culture. Their studies delve into a level of detail that most shorter-lived peoples find excessive or inefficient. Elves are often rather private people, steeped in the secrets of their groves and kinship groups. They're slow to build friendships outside their kinsfolk, as elves who spend their lives among shorter-lived peoples often become morose after watching generations of companions age and die. These elves are known as Forlorn among their fellow elves.
+
+If you want a character who is magical, mystical, and mysterious, you should play an elf.
+
+Size: Medium
+Speed: 30
+
+Ability Boosts: Dexterity, Intelligence, Free
+Ability Flaw: Constitution
+
+Racial Ability: Low-Light Vision
+
+Dwarf:
+Dwarves have a well-earned reputation as a stoic and stern people, ensconced within citadels and cities carved from solid rock. While some see them as dour and humorless crafters of stone and metal, dwarves and those who have spent time among them understand their unbridled zeal for their work, caring far more about quality than quantity. To a stranger, they can seem untrusting and clannish, but to their friends and family, they are warm and caring, their halls filled with the sounds of laughter and hammers hitting anvils.
+
+Dwarves are slow to trust those outside their kin, but this wariness is not without reason. Dwarves have a long history of forced exile from ancestral holds and struggles against the depredations of savage foes, especially giants, goblinoids, orcs, and the horrors that dwell deep below the surface. While trust from a dwarf is hard-won, once gained it is as strong as iron.
+
+If you want to play a character who is as hard as nails, a stubborn and unrelenting adventurer, with a mix of rugged toughness and deep wisdom—or at least dogged conviction—you should play a dwarf.
+
+Size: Medium
+Speed: 20
+
+Ability Boosts: Constitution, Wisdom, Free
+Ability Flaw: Charisma
+
+Racial Ability: Darkvision
+
+Gnome:
+Long ago, early gnome ancestors emigrated from the First World, realm of the fey. While it’s unclear why the first gnomes wandered to Golarion, this lineage manifests in modern gnomes as bizarre reasoning, eccentricity, obsessive tendencies, and what some see as naivete. These qualities are further reflected in their physical characteristics, such as spindly limbs, brightly colored hair, and childlike and extremely expressive facial features that further reflect their otherworldly origins.
+
+Always hungry for new experiences, gnomes constantly wander both mentally and physically, attempting to stave off a terrible ailment that threatens all of their people. This affliction—the Bleaching—strikes gnomes who fail to dream, innovate, and take in new experiences, in the gnomes' absence of crucial magical essence from the First World. Gnomes latch onto a source of localized magic where they live, typically primal magic, as befits their fey lineage, but this isn't enough to avoid the Bleaching unless they supplement this magic with new experiences. The Bleaching slowly drains the color—literally—from gnomes, and it plunges those affected into states of deep depression that eventually claim their lives. Very few gnomes survive this scourge, becoming deeply morose and wise survivors known as bleachlings.
+
+If you want a character with boundless enthusiasm and an alien, fey outlook on morality and life, you should play a gnome.
+
+Size: Small
+Speed: 25
+
+Ability Boosts: Constitution, Charisma, Free
+Ability Flaw: Strength
+
+Racial Ability: Low-Light Vision
+
+Halfling:
+Claiming no place as their own, halflings control few settlements larger than villages. Instead, they frequently live among humans within the walls of larger cities, carving out small communities alongside taller folk. Many halflings lead perfectly fulfilling lives in the shadows of their larger neighbors, while others prefer a nomadic existence, traveling the world and taking advantage of opportunities and adventures as they come.
+
+Optimistic and cheerful, blessed with uncanny luck, and driven by powerful wanderlust, halflings make up for their short stature with an abundance of bravado and curiosity. At once excitable and easygoing, they are the best kind of opportunists, and their passions favor joy over violence. Even in the jaws of danger, halflings rarely lose their sense of humor.
+
+Many taller people dismiss halflings due to their size or, worse, treat them like children. Halflings use these prejudices and misconceptions to their advantage, gaining access to opportunities and performing deeds of daring mischief or heroism. A halfling’s curiosity is tempered by wisdom and caution, leading to calculated risks and narrow escapes.
+
+While their wanderlust and curiosity sometimes drive them toward adventure, halflings also carry strong ties to house and home, often spending above their means to achieve comfort in their homelife.
+
+If you want to play a character who must contend with these opposing drives toward adventure and comfort, you should play a halfling.
+
+Size: Small
+Speed: 25
+
+Ability Boosts: Dexterity, Wisdom, Free
+Ability Flaw: Strength
+
+Racial Ability: Keen Eyes
+- Gain a +2 bonus to Seek actions to find hidden or undetected creatures within 30ft of you. When targeting an opponent reducer the flat check DC to a 3 for a concealed target and to a 9 for a hidden one.
+
+Versatile Heritage:
+Humanity's versatility and ambition have fueled its ascendance to be the most common ancestry in most nations throughout the world. Select a general feat of your choice for which you meet the prerequisites (as with your ancestry feat, you can select this general feat at any point during character creation).
+
+Skilled Heritage:
+Your ingenuity allows you to train in a wide variety of skills. You become trained in one skill of your choice. At 5th level, you become an expert in the chosen skill.
+
+Arctic Elf:
+You dwell deep in the frozen north and have gained incredible resilience against cold environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+
+Cavern Elf:
+You were born or spent many years in underground tunnels or caverns where light is scarce. You gain darkvision.
+
+Woodland Elf:
+You're adapted to life in the forest, the deep jungle, or a similar environment, and you know how to climb trees and use foliage to your advantage. When Climbing trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have Quick Climb). This doesn't affect you if you're using a climb Speed.
+
+Strong-Blooded Dwarf:
+Your blood runs hearty and strong, and you can shake off toxins. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.
+
+Rock Dwarf:
+Your ancestors lived and worked among the ancient stones of the mountains or the depths of the earth. This makes you solid as a rock when you plant your feet. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to Reposition, Shove, or Trip you. This bonus also applies to saving throws against spells or effects that attempt to force you to move or knock you prone. In addition, if any effect would force you to move 10 feet or more, you are moved only half the distance.
+
+Forge Dwarf:
+You have a remarkable adaptation to hot environments. This grants you fire resistance equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).
+
+Chameleon Gnome:
+The color of your hair and skin is mutable, possibly due to latent magic from First World influences or lingering illusion effects. You can slowly change the vibrancy and the exact color, and the coloration can be different across your body, allowing you to create patterns or other colorful designs. It takes a single action for minor localized shifts and up to an hour for dramatic shifts throughout your body. While you're asleep, the colors shift on their own in tune with your dreams, giving you an unusual coloration each morning. When you're in an area where your coloration is roughly similar to the environment (for instance, forest green in a forest), you can use the single action to make minor localized shifts designed to help you blend into your surroundings. This grants you a +2 circumstance bonus to Stealth checks until your surroundings shift in coloration or pattern.
+
+Umbral Gnome:
+Whether from a connection to dark or shadowy fey, from the underground gnomes known as drathnelar, or from another source, you can see in complete darkness. You gain darkvision.
+
+Sensate Gnome:
+You see all colors as brighter, hear all sounds as richer, and especially smell all scents with incredible detail. You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the exact location of a creature. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind.
+
+In addition, you gain a +2 circumstance bonus to Perception checks whenever you're trying to locate an undetected creature that is within the range of your scent.
+
+Gutsy Halfling:
+Your family line is known for keeping a level head and staving off fear when the chips were down. When you roll a success on a saving throw against an emotion effect, you get a critical success instead.
+
+Hillock Halfling:
+Accustomed to a calm life in the hills, your people find rest and relaxation especially replenishing, particularly when indulging in creature comforts. When you regain Hit Points overnight, add your level to the Hit Points regained. When anyone uses the Medicine skill to Treat your Wounds, you can eat a snack to add your level to the Hit Points you regain from their treatment.
+
+Wildwood Halfling:
+You hail from deep within a jungle or forest, and you've learned how to use your small size to wriggle through undergrowth and other obstacles. You ignore any difficult terrain caused by plants and fungi, such as bushes, vines, and undergrowth.
+
+
+Adapted Cantrip:
+Feat: 1
+
+Prerequisites: spellcasting class feature
+
+Through study of multiple magical traditions, you've altered a spell to suit your spellcasting style. Choose one cantrip from a magical tradition other than your own. If you have a spell repertoire or a spellbook, replace one of the cantrips you know or have in your spellbook with the chosen spell. If you prepare spells without a spellbook (if you're a cleric or druid, for example), one of your cantrips must always be the chosen spell, and you prepare the rest normally. You can cast this cantrip as a spell of your class's tradition.
+
+If you swap or retrain this cantrip later, you can choose its replacement from the same alternate tradition or a different one.
+
+Cooperative Nature:
+Feat: 1
+
+The short human life span lends perspective and has taught you from a young age to set aside differences and work with others to achieve greatness. You gain a +4 circumstance bonus on checks to Aid.
+
+General Training:
+Feat: 1
+
+Your adaptability manifests in your mastery of a range of useful abilities. You gain a 1st-level general feat. You must meet the feat's prerequisites, but if you select this feat during character creation, you can select the feat later in the process in order to determine which prerequisites you meet.
+
+Special: You can select this feat multiple times, choosing a different feat each time.
+
+Haughty Obstinacy:
+Feat: 1
+
+Your powerful ego makes it harder for others to order you around. If you roll a success on a saving throw against a mental effect that attempts to directly control your actions, you critically succeed instead. If a creature rolls a failure on a check to Coerce you using Intimidation, it gets a critical failure instead (so it can't try to Coerce you again for 1 week).
+
+Natural Ambition:
+Feat: 1
+
+You were raised to be ambitious and always reach for the stars, leading you to progress quickly in your chosen field. You gain a 1st-level class feat for your class. You must meet the prerequisites, but you can select the feat later in the character creation process in order to determine which prerequisites you meet.
+
+Natural Skill:
+Feat: 1
+
+Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.
+
+Unconventional Weaponry:
+Feat: 1
+
+You've familiarized yourself with a particular weapon, potentially from another ancestry or culture. Choose an uncommon simple or martial weapon with a trait corresponding to an ancestry (such as dwarf, goblin, or orc) or that is common in another culture. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a simple weapon.
+
+If you are trained in all martial weapons, you can choose an uncommon advanced weapon with such a trait. You gain access to that weapon, and for the purpose of determining your proficiency, that weapon is a martial weapon.
+
+Ancestral Longevity:
+Feat: 1
+
+Prerequisites: at least 100 years old
+
+You have accumulated a vast array of lived knowledge over the years. During your daily preparations, you can reflect upon your life experiences to gain the trained proficiency rank in one skill of your choice. This proficiency lasts until you prepare again. Since this proficiency is temporary, you can’t use it as a prerequisite for a skill increase or a permanent character option like a feat.
+
+Elven Lore:
+Feat: 1
+
+You've studied in traditional elven arts, learning about arcane magic and the world around you. You gain the trained proficiency rank in Arcana and Nature. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Elven Lore.
+
+Elven Weapon Familiarity:
+Feat: 1
+
+You favor bows and other elegant weapons. You are trained with longbows, composite longbows, longswords, rapiers, shortbows, and composite shortbows.
+
+In addition, you gain access to all uncommon elf weapons. For the purpose of determining your proficiency, martial elf weapons are simple weapons and advanced elf weapons are martial weapons.
+
+Forlorn:
+Feat: 1
+
+Watching your friends age and die fills you with moroseness that protects you against harmful emotions. You gain a +1 circumstance bonus to saving throws against emotion effects. If you roll a success on a saving throw against an emotion effect, you get a critical success instead.
+
+Nimble Elf:
+Feat: 1
+
+Your muscles are tightly honed. Your Speed increases by 5 feet.
+
+Otherworldy Magic:
+Feat: 1
+
+Your elven magic manifests as a simple arcane spell, even if you aren’t formally trained in magic. Choose one cantrip from the arcane spell list. You can cast this cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+Unwaverinmg Mien:
+Feat: 1
+
+Your mystic control and meditations allow you to resist external influences upon your consciousness. Whenever you are affected by a mental effect that lasts at least 2 rounds, you can reduce the duration by 1 round.
+
+You still require natural sleep, but you treat your saving throws against effects that would cause you to fall asleep as one degree of success better. This protects only against sleep effects, not against other forms of falling unconscious.
+
+Dwarven Lore:
+Feat: 1
+
+You eagerly absorbed the old stories and traditions of your ancestors, your gods, and your people, studying in subjects and techniques passed down for generation upon generation. You gain the trained proficiency rank in Crafting and Religion. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Dwarven Lore.
+
+Dwarven Weapon Familiarity:
+Feat: 1
+
+Your kin have instilled in you an affinity for hard-hitting weapons, and you prefer these to more elegant arms. You are trained with the battle axe, pick, and warhammer.
+
+You also gain access to all uncommon dwarf weapons. For the purpose of determining your proficiency, martial dwarf weapons are simple weapons and advanced dwarf weapons are martial weapons.
+
+Rock Runner:
+Feat: 1
+
+Your innate connection to stone makes you adept at moving across uneven surfaces. You can ignore difficult terrain caused by rubble and uneven ground made of stone and earth. In addition, when you use the Acrobatics skill to Balance on narrow surfaces or uneven ground made of stone or earth, you aren't flat-footed, and when you roll a success at one of these Acrobatics checks, you get a critical success instead.
+
+Stonecunning:
+Feat: 1
+
+You have a knack for noticing even small inconsistencies and craftsmanship techniques in the stonework around you. You gain a +2 circumstance bonus to Perception checks to notice unusual stonework. This bonus applies to checks to discover mechanical traps made of stone or hidden within stone.
+
+If you aren't using the Seek action or searching, the GM automatically rolls a secret check for you to notice unusual stonework anyway. This check doesn't gain the circumstance bonus, and it takes a –2 circumstance penalty.
+
+Unburdened Iron:
+Feat: 1
+
+You've learned techniques first devised by your ancestors during their ancient wars, allowing you to comfortably wear massive suits of armor. Ignore the reduction to your Speed from any armor you wear.
+
+In addition, any time you're taking a penalty to your Speed from some other reason (such as from the encumbered condition or from a spell), deduct 5 feet from the penalty. For example, the encumbered condition normally gives a –10-foot penalty to Speed, but it gives you only a –5-foot penalty. If your Speed is taking multiple penalties, pick only one penalty to reduce.
+
+Vengeful Hatred:
+Feat: 1
+
+You heart aches for vengeance against those who have wronged your people. Choose one of the following dwarven ancestral foes when you gain Vengeful Hatred: drow, duergar, giant, or orc. You gain a +1 circumstance bonus to damage with weapons and unarmed attacks against creatures with that trait. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. In addition, if a creature critically succeeds at an attack against you and deals damage to you, you gain your bonus to damage against that creature for 1 minute regardless of whether it has the chosen trait.
+
+Special: Your GM can add appropriate creature traits to the ancestral foes list if your character is from a community that commonly fights other types of enemies.
+
+Animal Accomplice:
+Feat: 1
+
+You build a rapport with an animal, which becomes magically bonded to you. You gain a familiar. The type of animal is up to you, but most gnomes choose animals with a burrow Speed.
+
+Burrow Elocutionist:
+Feat: 1
+
+You recognize the chittering of ground creatures as its own peculiar language. You can ask questions of, receive answers from, and use the Diplomacy skill with animals that have a burrow Speed, such as badgers, ground squirrels, moles, and prairie dogs. The GM determines which animals count for this ability.
+
+Fey Fellowship:
+Feat: 1
+
+Your enhanced fey connection affords you a warmer reception from creatures of the First World as well as tools to foil their tricks. You gain a +2 circumstance bonus to both Perception checks and saving throws against fey.
+
+In addition, whenever you meet a fey creature in a social situation, you can immediately attempt a Diplomacy check to Make an Impression on that creature rather than needing to converse for 1 minute. You take a –5 penalty to the check. If you fail, you can engage in 1 minute of conversation and attempt a new check at the end of that time rather than accepting the failure or critical failure result.
+
+Special: If you have the Glad-Hand skill feat, you don’t take the penalty on your immediate Diplomacy check if the target is a fey.
+
+First World Magic:
+Feat: 1
+
+Your connection to the First World grants you a primal innate spell, much like those of the fey. Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+Gnome Obsession:
+Feat: 1
+
+You might have a flighty nature, but when a topic captures your attention, you dive into it headfirst. Pick a Lore skill. You gain the trained proficiency rank in that skill. At 2nd level, you gain expert proficiency in the chosen Lore as well as the Lore granted by your background, if any. At 7th level you gain master proficiency in these Lore skills, and at 15th level you gain legendary proficiency in them.
+
+Gnome Weapon Familiarity:
+Feat: 1
+
+You favor unusual weapons tied to your people, such as blades with curved and peculiar shapes. You are trained with the glaive and kukri.
+
+In addition, you gain access to kukris and all uncommon gnome weapons. For the purpose of determining your proficiency, martial gnome weapons are simple weapons and advanced gnome weapons are martial weapons.
+
+Illusion Sense:
+Feat: 1
+
+Your ancestors spent their days cloaked and cradled in illusions, and as a result, sensing illusion magic is second nature to you. You gain a +1 circumstance bonus to both Perception checks and Will saves against illusions. When you come within 10 feet of an illusion that can be disbelieved, the GM rolls a secret check for you to disbelieve it, even if you didn't spend an action to Interact with the illusion.
+
+Distracting Shadows:
+Feat: 1
+
+You have learned to remain hidden by using larger folk as a distraction to avoid drawing attention to yourself. You can use creatures that are at least one size larger than you (usually Medium or larger) as cover for the Hide and Sneak actions, though you still can't use such creatures as cover for other uses, such as the Take Cover action.
+
+Halfling Lore:
+Feat: 1
+
+You've dutifully learned how to keep your balance and how to stick to the shadows where it's safe, important skills passed down through generations of halfling tradition. You gain the trained proficiency rank in Acrobatics and Stealth. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Halfling Lore.
+
+Halfling Weapon Familiarity:
+Feat: 1
+
+You favor traditional halfling weapons, so you've learned how to use them more effectively. You have the trained proficiency with the frying pan, sling, halfling sling staff, and shortsword. You gain access to all uncommon halfling weapons. For the purpose of determining your proficiency, martial halfling weapons are simple weapons and advanced halfling weapons are martial weapons.
+
+Sure Feet:
+Feat: 1
+
+Whether keeping your balance or scrambling up a tricky climb, your hairy, calloused feet easily find purchase. If you roll a success on an Acrobatics check to Balance or an Athletics check to Climb, you get a critical success instead. You're not flat-footed when you attempt to Balance or Climb.
+
+Titan Slinger:
+Feat: 1
+
+You have learned how to use your sling to fell enormous creatures. When you hit on an attack with a sling against a Large or larger creature, increase the size of the weapon damage die by one step (details on increasing weapon damage die sizes can be found here).
+
+Unfettered Halfling:
+Feat: 1
+
+You were forced into service as a laborer, either pressed into indentured servitude or shackled by the evils of slavery, but you've since escaped and have trained to ensure you'll never be caught again. Whenever you roll a success on a check to Escape or a saving throw against an effect that would impose the grabbed or restrained condition on you, you get a critical success instead. Whenever a creature rolls a failure on a check to Grapple you, they get a critical failure instead. If a creature uses the Grab ability on you, it must succeed at an Athletics check to grab you instead of automatically grabbing you.
+
+Watchful Halfling:
+Feat: 1
+
+Your communal lifestyle causes you to pay close attention to the people around you, allowing you to more easily notice when they act out of character. You gain a +2 circumstance bonus to Perception checks when using the Sense Motive basic action to notice enchanted or possessed characters. If you aren't actively using Sense Motive on an enchanted or possessed character, the GM rolls a secret check, without the usual circumstance and with a –2 circumstance penalty, for you to potentially notice the enchantment or possession anyway.
+
+In addition to using it for skill checks, you can use the Aid basic action to grant a bonus to another creature's saving throw or other check to overcome enchantment or possession.
+
+As usual for Aid, you need to prepare by using an action on your turn to encourage the creature to fight against the effect.
+
+Adaptive Adept:
+Feat: 5
+
+Prerequisites: Adapted Cantrip; can cast 3rd-level spells
+
+You’ve continued adapting your magic to blend your class’s tradition with your adapted tradition. Choose a cantrip or 1st-level spell from the same magical tradition as your cantrip from Adapted Cantrip. You gain that spell, adding it to your spell repertoire, spellbook, or prepared spells just like the cantrip from Adapted Cantrip. You can cast this spell as a spell of your class’s magical tradition. If you choose a 1st-level spell, you don’t gain access to the heightened versions of that spell, meaning you can’t prepare them if you prepare spells and you can’t learn them or select the spell as a signature spell if you have a spell repertoire.
+
+Clever Improviser:
+Feat: 5
+
+You’ve learned how to handle situations when you’re out of your depth. You gain the Untrained Improvisation general feat. In addition, you can attempt skill actions that normally require you to be trained, even if you are untrained.
+
+Ageless Patience:
+Feat: 5
+
+You work at a pace born from longevity that enhances your thoroughness. You can voluntarily spend twice as much time as normal on a Perception check or skill check to gain a +2 circumstance bonus to that check. You also don't treat a natural 1 as worse than usual on these checks; you get a critical failure only if your result is 10 lower than the DC. For example, you could get these benefits if you spent 2 actions to Seek, which normally takes 1 action. You can get these benefits during exploration by taking twice as long exploring as normal, or in downtime by spending twice as much downtime.
+
+The GM might determine a situation doesn't grant you a benefit if a delay would be directly counterproductive to your success, such as a tense negotiation with an impatient creature.
+
+Elven Weapon Elegance:
+Feat: 5
+
+Prerequisites: Elven Weapon Familiarity
+
+You are attuned to the weapons of your elven ancestors and are particularly deadly when using them. Whenever you critically hit using an elf weapon or one of the weapons listed in Elven Weapon Familiarity, you apply the weapon's critical specialization effect.
+
+Boulder Roll:
+Feat: 5
+Actions: 2
+Traits: Dwarf
+
+Your dwarven build allows you to push foes around, just like a mighty boulder tumbles through a subterranean cavern. Take a Step into the square of a foe that is your size or smaller, and the foe must move into the empty space directly behind it. The foe must move even if doing so places it in harm's way. The foe can attempt a Fortitude saving throw against your Athletics DC to block your Step. If the foe attempts this saving throw, unless it critically succeeds, it takes bludgeoning damage equal to your level plus your Strength modifier.
+
+If the foe can't move into an empty space (if it is surrounded by solid objects or other creatures, for example), your Boulder Roll has no effect.
+
+Dwarven Weapon Cunning:
+Feat: 5
+
+You've learned cunning techniques to get the best effects out of your dwarven weapons. Whenever you critically hit using a battle axe, pick, warhammer, or a dwarf weapon, you apply the weapon's critical specialization effect.
+
+Animal Elocutionist:
+Feat: 1
+
+Prerequisites: Burrow Elocutionist
+
+You hear animal sounds as conversations instead of unintelligent noise, and can respond in turn. You can speak to all animals, not just animals with a burrow Speed. You gain a +1 circumstance bonus to Make an Impression on animals (which usually uses the Diplomacy skill).
+
+Energized Font:
+Feat: 5
+Actions: 1
+Traits: Gnome
+
+Frequency: once per day
+Prerequisites: focus pool, at least one innate spell from a gnome heritage or ancestry feat that shares a tradition with at least one of your focus spells
+
+The magic within you provides increased energy you can use to focus. You regain 1 Focus Point, up to your usual maximum.
+
+Gnome Weapon Innovator:
+Feat: 5
+
+Prerequisites: Gnome Weapon Familiarity
+
+You produce outstanding results when wielding unusual weapons. Whenever you critically hit using a glaive, kukri, or gnome weapon, you apply the weapon's critical specialization effect.
+
+Cultural Adaptability:
+Feat: 5
+
+During your adventures, you've honed your ability to adapt to the culture of the predominant ancestry around you. You gain the Adopted Ancestry general feat, and you also gain one 1st-level ancestry feat from the ancestry you chose for the Adopted Ancestry feat.
+
+Halfling Weapon Trickster:
+Feat: 5
+
+Prerequisites: Halfling Weapon Familiarity
+
+You are particularly adept at fighting with your people's favored weapons. Whenever you critically succeed at an attack roll using a shortsword, a sling, or a halfling weapon, you apply the weapon's critical specialization effect.
+
+Cooperative Soul:
+Feat: 9
+
+Prerequisites: Cooperative Nature
+
+You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to Aid other than a critical success.
+
+Multitalented:
+Feat: 9
+
+You've learned to split your focus between multiple classes with ease. You gain a 2nd-level multiclass dedication feat, even if you normally couldn't take another dedication feat until you take more feats from your current archetype.
+
+If you're a half-elf, you don't need to meet the feat's ability score prerequisites.
+
+Elf Step:
+Feat: 9
+Actions: 1
+Traits: Elf
+
+You move in a graceful dance, and even your steps are broad. You Step 5 feet twice.
+
+Expert Longevity:
+Feat: 9
+
+Prerequisites: Ancestral Longevity
+
+You’ve continued to refine the knowledge and skills you’ve gained through your life. When you choose a skill in which to become trained with Ancestral Longevity, you can also choose a skill in which you are already trained and become an expert in that skill. This lasts until your Ancestral Longevity expires.
+
+When the effects of Ancestral Longevity and Expert Longevity expire, you can retrain one of your skill increases. The skill increase you gain from this retraining must either make you trained in the skill you chose with Ancestral Longevity or make you an expert in the skill you chose with Expert Longevity.
+
+Mountain's Stoutness:
+Feat: 9
+
+Your hardiness lets you withstand more punishment than most before going down. Increase your maximum Hit Points by your level. When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
+
+If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
+
+Stonewalker:
+Feat: 9
+
+You have a deep reverence for and connection to stone. You gain meld into stone as a 3rd-level divine innate spell that you can cast once per day.
+
+If you have the Stonecunning dwarf ancestry feat, you can attempt to find unusual stonework and stonework traps that require legendary proficiency in Perception. If you have both Stonecunning and legendary proficiency in Perception, when you're not Seeking and the GM rolls a secret check for you to notice unusual stonework, you keep the bonus from Stonecunning and don't take the –2 circumstance penalty.
+
+First World Adept:
+Feat: 9
+
+Prerequisites: at least one primal innate spell
+
+Over time your fey magic has grown stronger. You gain faerie fire and invisibility as 2nd-level primal innate spells. You can cast each of these primal innate spells once per day.
+
+Vivacious Conduit:
+Feat: 9
+
+Your connection to the First World has grown, and its positive energy flows into you rapidly. If you rest for 10 minutes, you gain Hit Points equal to your Constitution modifier × half your level. This is cumulative with any healing you receive from Treat Wounds.
+
+Guiding Luck:
+Feat: 9
+
+Prerequisites: Halfling Luck
+
+Your luck guides you to look the right way and aim your blows unerringly. You can use Halfling Luck twice per day: once in response to its normal trigger, and once when you fail a Perception check or attack roll instead of the normal trigger.
+
+Irrepressible:
+Feat: 9
+
+You are easily able to ward off attempts to play on your fears and emotions. When you roll a success on a saving throw against an emotion effect, you get a critical success instead. If your heritage is gutsy halfling, when you roll a critical failure on a saving throw against an emotion effect, you get a failure instead.
+
+Unconventional Expertise:
+Feat: 13
+
+Prerequisites: Unconventional Weaponry; trained in the weapon you chose for Unconventional Weaponry
+
+You’ve continued to advance your powers using your unconventional weapon. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in the weapon you chose for Unconventional Weaponry.
+
+Universal Longevity:
+Feat: 13
+Actions: 1
+Traits: Elf
+
+Frequency: once per day
+Prerequisites: Expert Longevity
+
+You’ve perfected your ability to keep up with all the skills you’ve learned over your long life, so you’re almost never truly untrained at a skill. You reflect on your life experiences, changing the skills you selected with Ancestral Longevity and Expert Longevity.
+
+Elven Weapon Expertise:
+Feat: 13
+
+Prerequisites: Elven Weapon Familiarity
+
+Your elven affinity blends with your class training, granting you great skill with elven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency in longbows, composite longbows, longswords, rapiers, shortbows, composite shortbows, and all elf weapons in which you are trained.
+
+Dwarven Weapon Expertise:
+Feat: 13
+
+Prerequisites: Dwarven Weapon Familiarity
+
+Your dwarven affinity blends with your training, granting you great skill with dwarven weapons. Whenever you gain a class feature that grants you expert or greater proficiency in certain weapons, you also gain that proficiency for battle axes, picks, warhammers, and all dwarven weapons in which you are trained.
+
+Gnome Weapon Expertise:
+Feat: 13
+
+Prerequisites: Gnome Weapon Familiarity
+
+Your gnome affinity blends with your class training, granting you great skill with gnome weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the glaive, kukri, and all gnome weapons in which you are trained.
+
+Ceaseless Shadows:
+Feat: 13
+
+Prerequisites: Distracting Shadows
+
+You excel at going unnoticed, especially among a crowd. You no longer need to have cover or be concealed to Hide or Sneak. If you would have lesser cover from creatures, you gain cover and can Take Cover, and if you would have cover from creatures, you gain greater cover.
+
+Halfling Weapon Expertise:
+Feat: 13
+
+Prerequisites: Halfling Weapon Familiarity
+
+Your halfling affinity blends with your class training, granting you great skill with halfling weapons. Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in the sling, halfling sling staff, shortsword, and all halfling weapons in which you are trained.

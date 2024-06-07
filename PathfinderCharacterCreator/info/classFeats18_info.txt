@@ -1,0 +1,176 @@
+Brutal Critical:
+Your critical hits are particularly devastating. On a critical hit with a melee Strike, add one extra damage die. This is in addition to any extra dice you gain if the weapon is deadly or fatal. The target also takes persistent bleed damage equal to two damage dice.
+
+Perfect Clarity:
+Actions: Reaction
+Traits: Barbarian, Concentrate, Fortune, Rage
+
+Trigger: You fail or critically fail an attack roll or Will save.
+
+You burn out all of your rage to ensure that your attack lands and your mind remains free. Reroll the triggering attack roll or Will save with a +2 circumstance bonus, use the better result, and resolve the effect. You then immediately stop raging.
+
+Vicious Evisceration:
+Actions: 2
+Traits: Barbarian, Rage
+
+You make a vicious attack that maims your enemy. Make a melee Strike. If the Strike hits and deals damage, the target is drained 1, or drained 2 on a critical success.
+
+Deep Lore:
+Prerequisites: enigma muse; legendary in Occultism
+
+Your repertoire is vast, containing far more spells than usual. Add one spell to your repertoire of each level you can cast.
+
+Eternal Composition:
+Prerequisites: maestro muse
+
+The world is a stage upon which you are always playing. You are permanently quickened; you can use your extra action only to cast a composition cantrip that requires 1 action to cast. While in exploration mode, you can declare that you are performing an eligible composition cantrip while using any exploration tactic. Even before your first turn in a combat encounter, that cantrip is active as if you had cast it on your previous turn.
+
+Impossible Polymath:
+Prerequisites: trained in Arcana, Nature, or Religion; Esoteric Polymath
+
+Your esoteric formulas are so unusual that they allow you to dabble in magic from diverse traditions that other bards don’t understand. As long as you’re trained in Arcana, you can add arcane spells to your book from Esoteric Polymath; as long as you’re trained in Nature, you can add primal spells to your book; and as long as you are trained in Religion, you can add divine spells to your book.
+
+Like your other spells in your book, you can add one of these spells from another tradition to your repertoire as an occult spell each day using Esoteric Polymath, but you can’t retain any spells from another tradition when you prepare again, even if you have Eclectic Polymath.
+
+Celestial Form:
+Prerequisites: tenets of good
+
+You take on a celestial countenance, appearing like a type of celestial who serves your deity; for example, as an angel, you would gain a halo and feathery wings. You gain a fly Speed equal to your Speed. You gain darkvision if you don’t already have it, and you gain the celestial trait and the trait appropriate to the type of servitor you’ve become (archon, angel, or azata, for example).
+
+Ultimate Mercy:
+Prerequisites: Mercy
+
+Your mercy transcends the bounds of life and death. When you use Mercy, you can cast lay on hands on a creature that died since your last turn to return it to life. The target returns to life with 1 hit point and becomes wounded 1. You can’t use Ultimate Mercy if the triggering effect was disintegrate or a death effect.
+
+Domain Wellspring:
+Prerequisites: Domain Focus
+
+The intensity of your focus grows from the investment you’ve placed in your domains. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+
+Echoing Channel:
+Actions: 1
+Traits: Cleric, Concentrate, Metamagic
+
+When you pull forth positive or negative energy, you also create a smaller pocket of that energy. If the next action you use is to cast a 2-action harm or heal to heal or damage a single creature, choose one additional creature adjacent to either you or the target. Target that creature with a 1-action version of the same spell. This spell is the same level as the 2-action harm or heal you cast and doesn’t cost another spell slot.
+
+Improved Swift Banishment:
+Prerequisites: Swift Banishment
+
+You easily banish creatures with your weapon. You can use Swift Banishment as long as you have a spell slot of 5th level or higher remaining, even if you don’t have banishment prepared. You must sacrifice a prepared spell of 5th level or higher, and the banishment effect you create is heightened to the level of that spell. Your weapon serves as the special material component of banishment, causing the target to take the –2 penalty to its save against any banishment you cast using Swift Banishment.
+
+Invoke Disaster:
+Prerequisites: Wind Caller
+
+You can invoke nature’s fury upon your foes. You gain the storm lord order spell. Increase the number of Focus Points in your focus pool by 1.
+
+Perfect Form Control:
+Prerequisites: Form Control; Strength 18
+
+Thanks to magic and muscle memory, you can stay in your alternate forms indefinitely; you may have even forgotten your original form. When you use Form Control, instead of lasting 1 hour, wild shape is permanent until you Dismiss it.
+
+Primal Wellspring:
+Prerequisites: Primal Focus
+
+Your reservoir of Focus Points is a deep wellspring. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+
+Impossible Volley:
+Actions: 3
+Traits: Fighter, Flourish, Open, Ranger
+
+Requirements: You are wielding a ranged weapon with the volley trait and reload 0.
+
+You fire a volley at all foes in an area. Make one Strike with a –2 penalty against each enemy within a 10-foot-radius burst centered at or beyond your weapon’s volley range. Roll the damage only once for all targets.
+
+Each attack counts toward your multiple attack penalty, but do not increase your penalty until you have made all your attacks.
+
+Savage Critical:
+The wounds you inflict are grievous. When you Strike with a weapon or unarmed attack for which you have legendary proficiency, you critically succeed if you roll a 19 on the die as long as that result is a success. This has no effect on a 19 if the result would be a failure.
+
+Diamond Fists:
+Your body hardens as you combine your attacks, making your finishing blows more damaging. Your unarmed attacks gain the forceful trait. Any that already had this trait instead increase their weapon damage dice by one step.
+
+Empty Body:
+Prerequisites: ki spells
+
+You transmute your body into an ethereal form. You gain the empty body ki spell. Increase the number of Focus Points in your focus pool by 1.
+
+Meditative Wellspring:
+Prerequisites: Meditative Focus
+
+When you clear your mind, your focus comes flowing back in a powerful rush. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+
+Swift River:
+Actions: Free Action
+Traits: Monk
+
+Trigger: Your turn ends and you have a status penalty to your Speed or are immobilized or slowed.
+
+You flow like water, avoiding all restraints. End one status penalty to your speed, or end one immobilized or slowed condition affecting you.
+
+Impossible Flurry:
+Actions: 3
+Traits: Flourish, Open, Ranger
+
+Requirements: You are wielding two melee weapons, each in a different hand.
+
+You forgo precision to attack at an impossible speed. Make three melee Strikes with each of the required weapons. All of these Strikes take the maximum multiple attack penalty, as if you had already made two or more attacks this turn.
+
+Manifold Edge:
+Prerequisites: hunter's edge, masterful hunter
+
+You've learned every possible edge to use against your foes. When you use Hunt Prey, you can gain a different hunter's edge benefit instead of the one you selected at 1st level. If you do, you don't gain the additional benefit from masterful hunter.
+
+Masterful Companion:
+Prerequisites: masterful hunter; Animal Companion
+
+Your animal companion shares your incredible hunting skills, allowing it to take down your shared prey with ease. When you Hunt Prey, your animal companion gains the masterful hunter benefit associated with your hunter’s edge, rather than just your original hunter’s edge benefit.
+
+Perfect Shot:
+Actions: 3
+Traits: Flourish, Ranger
+
+Requirements: You are wielding a loaded ranged weapon with reload 1 or more, and you have not reloaded your weapon since your last turn.
+
+After watching the motions of combat with incredible intensity and precision, you fire at your prey at the perfect moment to deliver maximum pain. Make a ranged Strike with the required weapon against your hunted prey. If you hit, the Strike deals maximum damage. After the Strike, your turn ends.
+
+Shadow Hunter:
+Prerequisites: Camouflage
+
+You blend in to your surroundings so well that others have trouble telling you apart from the terrain. While in natural terrain, you’re always concealed from all foes if you choose to be, except for your hunted prey.
+
+Implausible Infiltration:
+Actions: 2
+Traits: Magical, Move, Rogue
+
+Prerequisites: legendary in Acrobatics; Quick Squeeze
+Requirements: You are adjacent to a floor or vertical wall.
+
+You find tiny holes or imperfections that no one else could see and try to somehow fit yourself through them, possibly moving directly through the wall or floor from one side to the other. Your movement attempt fails if the wall or floor is made of something other than wood, plaster, or stone; is thicker than 10 feet; or contains even a thin layer of metal. If you have a climb Speed, you can use this ability to attempt to move through a ceiling.
+
+Powerful Sneak:
+You have learned to exploit your enemies’ lowered defenses. When you succeed or critically succeed at a Strike using your Strength modifier on the attack roll and you would deal sneak attack damage, you can change the additional damage from sneak attack into ordinary damage of the same type as your Strike, rather than precision damage.
+
+Trickster's Ace:
+Actions: Reaction
+Traits: Concentrate, Investigator, Rogue
+
+Trigger: You specify the trigger when you make your daily preparations (see Requirements below).
+Requirements: When you make your daily preparations, you must specify a trigger for this reaction using the same restrictions as the triggers for the Ready action. You also choose a single spell from the arcane, divine, occult, or primal list of 4th level or lower. The spell can’t have a cost, nor can its casting time be more than 10 minutes. The spell must be able to target a single creature, and you must be a valid target for it.
+
+Whether from jury-rigged magic items, stolen magical essence, or other means, you have a contingency in your back pocket for desperate situations. When the trigger occurs, you cause the spell to come into effect. The spell targets only you, no matter how many creatures it would affect normally. If you define particularly complicated conditions, as determined by the GM, the trigger might fail. Once the contingency is triggered, the spell is expended until your next daily preparations.
+
+Bloodline Wellspring:
+Prerequisites: Bloodline Focus
+
+Your blood’s power replenishes your focus. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+
+Greater Crossblooded Evolution:
+Prerequisites: Crossblooded Evolution
+
+Your bloodline is extraordinarily complex. You can have up to three spells from other traditions in your spell repertoire, rather than just one. These spells must each be of a different spell level, but they don’t need to be from the same tradition.
+
+Infinite Possbilities:
+You’ve found a way to prepare a spell slot that exists in your mind as many different possibilities at once. Once during your daily preparations, you can use a spell slot to hold that infinite potential, rather than using it to prepare a spell. You can use this spell slot to cast any spell from your spellbook that’s at least 2 levels lower than the slot you designate; the spell acts in all ways as a spell of 2 levels lower. You don’t have any particular spell prepared in that slot until you cast it.
+
+Reprepare Spell:
+You’ve discovered how to reuse some of your spell slots over and over. You can spend 10 minutes to prepare a spell that you already cast today, regaining access to that spell slot. The spell must be of 4th level or lower and one that does not have a duration. You can reprepare a spell in this way even if you’ve already reprepared that spell previously in the same day. If you have the spell substitution arcane thesis, you can instead prepare a different spell in an expended slot, as long as the new spell doesn’t have a duration. Once you’ve reprepared a spell in that slot even once, you can use your arcane thesis to substitute only spells without durations into that spell slot.

@@ -1,0 +1,276 @@
+Awesome Blow:
+Prerequisites: Knockback
+
+Your attacks are so powerful, they can flatten your opponents. When you use Knockback, you can attempt an Athletics check against your target’s Fortitude DC.
+
+Critical Success: You gain the critical success effect of a Shove, then the critical success effect of a Trip against the target.
+Success: You gain the success effect of a Shove, then the success effect of a Trip against the target.
+Failure: You gain the normal effect of Knockback.
+
+Giant's Lunge:
+Actions: 1
+Traits: Barbarian, Concentrate, Rage
+
+Prerequisites: giant instinct
+
+You extend your body and prepare to attack foes outside your normal reach. Until your rage ends, all your melee weapons and unarmed attacks gain reach 10. This doesn’t increase the reach of any weapon or unarmed attack that already has the reach trait, but it does combine with abilities that increase your reach due to increased size, such as Giant’s Stature.
+
+Vengeful Strike:
+Actions: Reaction
+Traits: Barbarian, Rage
+
+Prerequisites: Come and Get Me
+Trigger: A creature within your reach succeeds or critically succeeds at an attack against you.
+Requirements: You’re under the effect of Come and Get Me.
+
+When struck by an enemy, you respond in turn. Make a melee Strike against the triggering creature. This Strike doesn’t count toward your multiple attack penalty, and your multiple attack penalty doesn’t apply to this Strike.
+
+Whirlwind Strike:
+Actions: 3
+Traits: Barbarian, Fighter, Flourish, Open
+
+You attack all nearby adversaries. Make a melee Strike against each enemy within your melee reach. Each attack counts toward your multiple attack penalty, but do not increase your penalty until you have made all your attacks.
+
+Allegro:
+You can quicken your allies with a fast-paced performance. You learn the allegro composition cantrip.
+
+Soothing Ballad:
+You soothe your allies’ wounds with the power of your performance. You learn the soothing ballad composition spell. Increase the number of Focus Points in your focus pool by 1
+
+True Hypercognition:
+Actions: 1
+Traits: Bard
+
+Prerequisites: enigma muse
+
+Your mind works at an incredible pace. You instantly use up to five Recall Knowledge actions. If you have any special abilities or free actions that would normally be triggered when you Recall Knowledge, you can’t use them for these actions.
+
+Anchoring Aura:
+Your aura hampers fiends’ teleportation. Your aura attempts to counteract teleportation spells cast by fiends within 15 feet, using the spell level and DC of your devotion spells.
+
+Aura Of Life:
+Your aura protects against necromantic effects. You and all allies within 15 feet gain resistance 5 to negative energy and a +1 status bonus to saves against necromancy effects.
+
+Aura Of Righteousness:
+Your righteous aura dampens evil’s might. You and all allies within 15 feet gain evil resistance 5.
+
+Aura Of Vengeance:
+Prerequisites: exalt; Vengeful Oath
+
+When you call upon others to take retribution, you also guide their aim. When you use Retributive Strike, your allies who make Strikes take only a –2 penalty, instead of a –5 penalty.
+
+Divine Reflexes:
+At the start of each of your turns, you gain an additional reaction that you can use only for your champion’s reaction.
+
+Litany Of Righteousness:
+Prerequisites: tenets of good
+
+You call upon righteousness to expose an evil foe’s weakness. You can cast the litany of righteousness devotion spell. Increase the number of Focus Points in your focus pool by 1.
+
+Wyrmbane Aura:
+Prerequisites: Dragonslayer Oath
+
+Your aura protects against destructive energies and dragons’ breath. You and all allies within 15 feet gain resistance equal to your Charisma modifier to acid, cold, electricity, fire, and poison. If the source of one of these types of damage is a dragon’s breath, increase the resistance to half your level.
+
+Deity's Protection:
+Prerequisites: Advanced Domain
+
+When you call upon your deity’s power to fulfill the promise of their domain, you gain divine protection. After you cast a domain spell, you gain resistance to all damage until the start of your next turn. The amount of resistance is equal to the level of the domain spell you cast.
+
+Extend Armament Alignment:
+The alignment you impose on a weapon lasts much longer. The duration of Align Armament increases to 1 minute.
+
+Fast Channel:
+Prerequisites: harmful font or healing font
+
+Divine power is always at your fingertips, swiftly responding to your call. When you cast harm or heal by spending 2 actions, you can get the effects of the 3-action version instead of the 2-action version.
+
+You can do this with harm if you have harmful font or heal if you have healing font (or both if you have Versatile Font).
+
+Swift Banishment:
+Actions: Reaction
+Traits: Cleric
+
+Trigger: You critically hit a creature that is not on its home plane
+Requirements: You have a banishment spell prepared
+
+The force of your blow sends your victim back to its home plane. You expend a banishment spell you have prepared, affecting the creature you critically hit without needing to cast the spell. The creature can attempt to resist the spell as normal.
+
+Specialized Companion (Druid):
+Prerequisites: Incredible Companion (Druid)
+
+Your animal companion continues to grow in power and ability, and it is now cunning enough to become specialized. Your animal companion gains one specialization of your choice.
+
+Special: You can select this feat up to three times. Each time, add a different specialization to your companion.
+
+Timeless Nature:
+With primal magic sustaining you, you cease aging. The overflowing primal energy gives you a +2 status bonus to saves against diseases and primal magic.
+
+Verdant Metamorphosis:
+Prerequisites: leaf order
+
+You transform into a plant version of yourself. You gain the plant trait and lose any trait that’s inappropriate for your new form (typically humanoid for a PC, but also possibly animal or fungus). You can change from a form that looks mostly like your old self into a tree or any other non-creature plant as a single action, which has the concentrate trait. This has the same effect as tree shape, except you can turn into any kind of non-creature plant and your AC is 30.
+
+If you rest for 10 minutes while transformed into a non-creature plant during daylight hours under direct sunlight, you recover half your maximum Hit Points. If you take your daily rest in this way, the rest restores you to maximum Hit Points and removes all non-permanent drained, enfeebled, clumsy, and stupefied conditions, as well as all poisons and diseases of 19th level or lower.
+
+Desperate Finisher:
+Actions: Reaction
+Traits: Fighter
+
+Trigger: You complete the last action on your turn, and your turn has not ended yet.
+Requirements: You meet the requirements to use an action with the press trait.
+
+You throw everything into one last press. Use a single action that you know with the press trait as part of Desperate Finisher. You forgo the ability to use reactions until the start of your next turn.
+
+Determination:
+Actions: 1
+Traits: Concentrate, Fighter
+
+Frequency: once per day
+
+Your training allows you to shrug off your foes' spells and conditions when the need is dire. Choose a single nonpermanent spell or condition that is affecting you. If you chose a condition, its effect on you ends. If you chose a spell, attempt to counteract the spell (your counteract level is equal to half your level, rounded up, and you attempt a Will save as your counteract check).
+
+This doesn't remove any Hit Point damage normally dealt by the spell or condition, and it doesn't prevent the spell or debilitating effect from affecting other allies or the environment around you. It can't remove an ongoing affliction or prevent such an affliction from inflicting conditions on you later. It can't remove conditions from the situation (such as prone or flanked). If the effect comes from a creature, hazard, or item of 20th level or higher, Determination can't remove its effect on you.
+
+Guiding Finish:
+Actions: 1
+Traits: Fighter, Press
+
+Requirements: You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+Using your weapon as a lever, you force your opponent to end up right where you want them. Make a Strike with the required weapon. If the Strike hits, you can move the target up to 10 feet into a space in your reach. You can move the target through your space during this movement. This follows the forced movement rules. Your Strike gains the following failure effect.
+
+Failure: You can force the creature to move as you would on a success, but you can move the target only 5 feet.
+
+Guiding Riposte:
+Prerequisites: Dueling Riposte
+
+By shifting your weight and angling your weapon, you guide your opponent to a more favorable position. When you use Dueling Riposte to Strike and you hit, you can move the target up to 10 feet into a space in your reach. This follows the forced movement rules.
+
+Improved Twin Riposte (Fighter):
+Prerequisites: Twin Riposte
+
+Your weapons are a blur, blocking and biting at your foes. At the start of each of your turns, you gain an additional reaction that you can use only to perform a Twin Riposte. You can use this extra reaction even if you are not benefiting from Twin Parry.
+
+Stance Savant (Fighter):
+Actions: Free Action
+Traits: Fighter
+
+Trigger: You roll initiative.
+When there's imminent danger, you drop into a stance with a mere thought. Use an action that has the stance trait.
+
+Two-Weapon Flurry:
+Actions: 1
+Traits: Fighter, Flourish, Press
+
+Requirements: You are wielding two weapons, each in a different hand.
+
+You lash out with both your weapons in a sudden frenzy. Strike twice, once with each weapon.
+
+Ironblood Surge:
+Prerequisites: Ironblood Stance
+Requirements: You are in Ironblood Stance.
+
+You steel yourself, preparing to resist oncoming attacks and using your muscles to absorb the impact. You gain the benefits of your iron sweep’s parry trait (a +1 circumstance bonus to AC until the start of your next turn) and your resistance from Ironblood Stance increases to your Strength modifier (if it’s higher) for the same duration.
+
+Mountain Quake:
+Actions: 1
+Traits: Monk
+
+Prerequisites: Mountain Stronghold
+Requirements: You are in Mountain Stance.
+
+You stomp, shaking the earth beneath you. Creatures on the ground within a 20-foot emanation take damage equal to your Strength modifier (minimum 0), with a basic Fortitude save against your class DC. On a failure, they also fall prone. After you use this action, you can't use it again for 1d4 rounds.
+
+Special: If you have this feat, the Dexterity modifier cap to your AC while using Mountain Stance increases from +1 to +2.
+
+Tangled Forest Rake:
+Actions: 1
+Traits: Monk
+
+Prerequisites: Tangled Forest Stance
+Requirements: You are in Tangled Forest Stance.
+
+You reposition foes with raking attacks. Make a lashing branch Strike. If you hit and deal damage, you force the target to move 5 feet into a space within your reach. This follows the forced movement rules.
+
+Timeless Body:
+You cease aging. In addition, you gain a +2 status bonus to saving throws against poisons and diseases, and you gain resistance to poison damage equal to half your level.
+
+Tongue Of Sun And Moon:
+You have transcended the barriers between words and meaning. You can speak and understand all spoken languages.
+
+Wild Winds Gust:
+Actions: 2
+Traits: Air, Concentrate, Evocation, Manipulate, Monk
+
+Prerequisites: Wild Winds Initiate
+Requirements: You are in Wild Winds Stance.
+
+You store up energy and release it in an enormous gust of rushing wind. Make a wind crash Strike against each creature in your choice of a 30-foot cone or a 60 foot line. These attacks all count toward your multiple attack penalty, but the penalty doesn’t increase until after you make all the attacks.
+
+Sense The Unseen:
+Actions: Reaction
+Traits: Investigator, Ranger, Rogue
+
+Trigger: You fail a check to Seek.
+
+When you look for foes, you can catch even the slightest cues, such as their minute movements or the shifting of air currents on your skin. Even though you failed at the triggering check, you automatically sense any undetected creatures in the area where you’re Seeking, making them merely hidden to you.
+
+Shared Prey:
+Prerequisites: Double Prey; Warden's Boon
+
+Hunting as a duo, you and your ally both single out your prey. When you use Hunt Prey and select only one prey, you can grant your Hunt Prey benefits and hunter’s edge to an ally in addition to gaining them yourself. The ally retains these benefits until you use Hunt Prey again.
+
+Stealthy Companion:
+Prerequisites: Animal Companion; Camouflage
+
+You’ve trained your animal companion to blend in to its surroundings. Your animal companion gains the benefit of the Camouflage feat. If your companion is a specialized ambusher, its proficiency rank for Stealth increases to master (or legendary if it was already master).
+
+Targeting Shot:
+Actions: 1
+Traits: Concentrate, Press, Ranger
+
+Prerequisites: Hunter's Aim
+
+You carefully track your prey’s position and defenses, allowing you to follow up around obstacles that block your shot. Make a ranged weapon Strike against your hunted prey. You ignore the target’s concealed condition and all cover.
+
+Warden's Guidance:
+You can convey your prey’s location to your allies, no matter how well hidden it is. As long as your hunted prey is observed by you, all your allies who roll failures and critical failures when Seeking it get a success instead. Your allies need to be able to see or hear you to gain this benefit. You have to be able to call out or use gestures for your allies to get this benefit.
+
+Defensive Roll:
+Actions: Free Action
+Traits: Rogue
+
+Frequency: once per 10 minutes
+Trigger: A physical attack would reduce you to 0 Hit Points.
+
+Dropping into a roll to disperse the force of the blow, you can partially evade a lethal attack and stay conscious. You take half damage from the triggering attack.
+
+Instant Opening:
+Actions: 1
+Traits: Concentrate, Rogue
+
+You distract your opponent with a few choice words or a rude gesture. Choose a target within 30 feet. It’s flat-footed against your attacks until the end of your next turn. Depending on the way you describe your distraction, this action gains either the auditory or visual trait.
+
+Leave An Opening:
+When you hit hard enough, you leave an opening so your ally can jump in on the action. Whenever you critically hit a flat-footed opponent with a melee attack and deal damage, the target triggers an Attack of Opportunity reaction from one ally of your choice who has that reaction, as if the enemy had used a manipulate action.
+
+Interweave Dispel:
+Prerequisites: dispel magic in your spell repertoire
+
+You weave dispelling energy into a spell, sending both effects at a foe. If your next action is to cast a single-target spell against a creature, and you either hit the foe with the spell attack roll or the foe fails its saving throw, you can cast dispel magic on the foe as a free action, expending a spell slot as normal and targeting one spell effect affecting the foe.
+
+Reflect Spell:
+Prerequisites: Counterspell
+
+When you successfully use Counterspell to counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s an area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defenses against the reflected spell as normal.
+
+Bonded Focus:
+Prerequisites: arcane bond
+
+Your connection to your bonded item increases your focus pool. If you have spent at least 2 Focus Points since the last time you Refocused and your bonded item is in your possession, you recover 2 Focus Points when you Refocus instead of 1.
+
+Superior Bond:
+Prerequisites: arcane bond
+
+When you draw upon your bonded item, you can leave a bit of energy within it for later use. You can use Drain Bonded Item one additional time per day, but only to cast a spell 2 or more levels lower than your highest-level wizard spell slot.

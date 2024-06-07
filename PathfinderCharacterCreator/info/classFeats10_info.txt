@@ -1,0 +1,292 @@
+Come And Get Me:
+Actions: 1
+Traits: Barbarian, Concentrate, Rage
+
+You open yourself to attacks so you can respond in turn. Until your rage ends, you are flat-footed, and damage rolls against you gain a +2 circumstance bonus. If a creature hits you, that creature is flat-footed to you until the end of your next turn. If you hit it before the end of your next turn, you gain temporary Hit Points equal to your Constitution modifier, or double that on a critical hit. These temporary Hit Points last until the end of your rage.
+
+Furious Sprint:
+Actions: 2
+Traits: Barbarian, Rage
+
+You rush forward. Stride up to five times your Speed in a straight line. You can increase the number of actions this activity takes to 3 to Stride up to eight times your Speed in a straight line instead.
+
+Great Cleave:
+Prerequisites: Cleave
+
+Your fury carries your weapon through multiple foes. When you Cleave, if your Strike also kills or knocks the target unconscious, you can continue to make melee Strikes until you make a Strike that doesn’t kill or knock a creature unconscious, or until there are no creatures adjacent to the most recent creature you attacked while Cleaving, whichever comes first.
+
+Knockback:
+Actions: 1
+Traits: Barabrian, Rage
+
+Requirements: Your last action was a successful Strike.
+
+The weight of your swing drives your enemy back. You push the foe back 5 feet, with the effects of a successful Shove. You can follow the foe as normal for a successful Shove.
+
+Terrifying Howl:
+Actions: 1
+Traits: Auditory, Barbarian, Rage
+
+Prerequisites: Intimidating Glare
+You unleash a terrifying howl. Attempt Intimidate checks to Demoralize each enemy within 30 feet. Regardless of the results of your checks, each creature is then temporarily immune to Terrifying Howl for 1 minute.
+
+House Of Imaginary Walls:
+You erect an imaginary barrier others believe to be real. You learn the house of imaginary walls composition cantrip.
+
+Quickened Casting:
+Actions: Free Action
+Traits: Bard, Concentrate, Metamagic, Oracle, Sorcerer, Witch, Wizard
+
+Frequency: once per day
+
+If your next action is to cast a cantrip or a spell that is at least 2 levels lower than the highest level spell slot you have, reduce the number of actions to cast it by 1 (minimum 1 action).
+
+Special: This can only be used on a cantrip or spell from the class matching the one you gained this feat from.
+
+Unusual Composiition:
+Actions: 1
+Traits: Bard, Concentrate, Manipulate, Metamagic
+
+Prerequisites: polymath muse
+
+You can translate the emotion and power of a composition to other mediums. If your next action is to cast a composition spell, you can use a different kind of performance than usual for the composition to change any of its somatic components to verbal components or vice versa. As usual for composition spells, this changes whether the composition is auditory or visual.
+
+Devoted Focus:
+Prerequisites: devotion spells
+
+Your devotion is strong enough to increase your focus to incredible heights. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
+
+Imposing Destrier:
+Prerequisites: divine ally (steed); Loyal Warhorse
+
+Under your care, your mount has realized its innate potential. The mount you gained through the divine ally class feature is now a nimble or savage animal companion. During an encounter, even if you don't use the Command an Animal action, your mount can still use 1 action on your turn to Stride or Strike.
+
+Litany Against Sloth:
+Prerequisites: devotion spells; tenets of good
+
+You rail against the sin of sloth, turning a foe’s laziness against it. You can cast the litany against sloth devotion spell. Increase the number of Focus Points in your focus pool by 1.
+
+Radiant Blade Spirit:
+Prerequisites: divine ally (blade)
+
+Your divine ally radiates power, enhancing your chosen weapon. When you choose the weapon for your blade ally during your daily preparations, add the following property runes to the list of effects you can choose from: flaming and any aligned properties (anarchic, axiomatic, holy, or unholy) that match your cause’s alignment.
+
+Shield Of Reckoning:
+Actions: Reaction
+Traits: Champion, Flourish
+
+Prerequisites: champion's reaction; Shield Warden
+
+Trigger A foe’s attack against an ally matches the trigger for both your Shield Block reaction and your champion’s reaction.
+When you shield your ally against an attack, you call upon your power to protect your ally further. You use the Shield Block reaction to prevent damage to an ally and also use your champion’s reaction against the foe that attacked your ally.
+
+Castigating Weapon:
+Prerequisites: Holy Castigation
+
+The force of your deity’s castigation strengthens your body so you can strike down the wicked. After you damage a fiend using a heal spell, your weapon or unarmed Strikes deal extra good damage to fiends equal to half the level of the heal spell until the end of your next turn. This is cumulative with any good damage the weapon already deals (such as from a holy rune).
+
+Heroic Recovery:
+Actions: 1
+Traits: Cleric, Concentrate, Metamagic
+
+Prerequisites: healing font; good alignment
+
+The restorative power of your healing invigorates the recipient. If the next action you use is to cast heal targeting a single living creature and the target regains Hit Points from the spell, it also gains three bonuses until the end of its next turn: a +5-foot status bonus to its Speed, a +1 status bonus to attack rolls, and a +1 status bonus to damage rolls.
+
+Improved Command Undead:
+Prerequisites: harmful font; Command Undead; evil alignment
+
+Undead creatures find it all but impossible to resist your commands. When you use Command Undead, if the undead succeeds at its save but doesn’t critically succeed, it is your minion for 1 round. If the undead fails its save, it is your minion for 10 minutes. If it critically fails, it is your minion for 24 hours.
+
+Replenishment Of War:
+Prerequisites: expert in your deity’s favored weapon
+
+Striking out against your enemies draws praise and protection from your deity. When you damage a creature with a Strike using your deity’s favored weapon, you gain a number of temporary Hit Points equal to half your level, or equal to your level if the Strike was a critical hit. These temporary Hit Points last until the start of your next turn.
+
+Elemental Shape:
+Prerequisites: Wild Shape
+
+You understand the fundamental elements of nature such that you can imbue them into your body and manifest as a living embodiment of those elements. Add the forms in elemental form to your wild shape list. Whenever you’re polymorphed into another form using wild shape, you gain resistance 5 to fire.
+
+Healing Transformation:
+Actions: 1
+Traits: Druid, Metamagic
+
+You can take advantage of shapechanging magic to close wounds and patch injuries. If your next action is to cast a non-cantrip polymorph spell that targets only one creature, your polymorph spell also restores 1d6 Hit Points per spell level to that creature. This is a healing effect.
+
+Overwhelming Energy:
+Actions: 1
+Traits: Druid, Manipulate, Metamagic, Sorcerer, Wizard
+
+You alter your spells to overcome resistances. If the next action you use is to Cast a Spell, the spell ignores an amount of the target’s resistance to acid, cold, electricity, fire, or sonic damage equal to your level. This applies to all damage the spell deals, including persistent damage and damage caused by an ongoing effect of the spell, such as the wall created by wall of fire. A creature’s immunities are unaffected.
+
+Plant Shape:
+Prerequisites: leaf order, or Wild Shape
+
+You can take the form of a plant creature. Add the forms listed in plant form to your wild shape list; if you don't have wild shape, you can instead cast plant form once per day, heightened to the same level as your highest-level druid spell slot. Whenever you're polymorphed into another form using wild shape, you gain resistance 5 to poison.
+
+Side By Side (Druid):
+Prerequisites: Animal Companion
+
+You and your animal companion fight in tandem, distracting your foes and keeping them off balance. Whenever you and your animal companion are adjacent to the same foe, you are both flanking that foe with each other, regardless of your actual positions.
+
+Agile Grace:
+Your graceful moves with agile weapons are beyond compare. Your multiple attack penalty with agile weapons and agile unarmed attacks becomes –3 for your second attack and –6 for subsequent attacks (rather than –4 and –8).
+
+Certain Strike:
+Actions: 1
+Traits: Fighter, Press
+
+Even when you don’t hit squarely, you can still score a glancing blow. Make a melee Strike. It gains the following failure effect.
+
+Failure: Your attack deals any damage it would have dealt on a hit, excluding all damage dice. (This removes damage dice from weapon runes, spells, and special abilities, in addition to weapon damage dice.)
+
+Combat Reflexes:
+You are particularly swift at punishing foes who leave you openings. At the start of each of your turns when you regain your actions, you gain an additional reaction that can be used only to make an Attack of Opportunity.
+
+Debilitating Shot:
+Actions: 2
+Traits: Fighter, Flourish
+
+Aiming for a weak point, you impede your foe with a precise shot. Make a ranged weapon Strike. If it hits and deals damage, the target is slowed 1 until the end of its next turn.
+
+Disarming Twist:
+Actions: 1
+Traits: Fighter, Press
+
+Prerequisites: trained in Athletics
+Requirements: You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+After your initial attack redirects your foe's defenses, your follow-up wrests their weapon from their grasp. Make a melee Strike with the required weapon. In addition to its other effects, this Strike gains the success and critical success effects of the Disarm action. The Strike also has the following failure effect.
+
+Failure: The target is flat-footed until the end of your current turn.
+
+Disruptive Stance:
+Actions: 1
+Traits: Fighter, Stance
+
+The slightest distraction can provoke your wrath, and you're prepared to foil enemies' actions. As long as you are in this stance, you can use Attack of Opportunity when a creature within your reach uses a concentrate action, in addition to manipulate and move actions. Furthermore, you disrupt a triggering concentrate or manipulate action if your Strike hits (not only if it's a critical hit).
+
+Fearsome Brute:
+Fear makes your foes weak and more vulnerable to your attacks. You gain a circumstance bonus to damage rolls for Strikes against frightened creatures. The bonus is equal to double the target's frightened value.
+
+If you have master proficiency in Intimidation, increase the bonus to triple the target's frightened value.
+
+Improved Knockdown:
+Prerequisites: Knockdown
+
+You can dash your foe to the ground with a single blow. When you use Knockdown, instead of making a Strike followed by a Trip, you can attempt a single Strike. If you do and your Strike hits, instead of rolling a check for your Trip attempt, you automatically apply the critical success effect of a Trip. If you used a two-handed melee weapon for the Strike, you can use the weapon's damage die size instead of the regular die size for the damage from a critical Trip.
+
+Mirror Shield:
+Actions: Reaction
+Traits: Fighter
+
+Trigger: An opponent casting a spell that targets you critically fails a spell attack roll against your AC.
+Requirements: You have a shield raised.
+
+You reflect the spell back against the triggering opponent. Make a ranged attack against the triggering creature using your highest proficiency with a ranged weapon. If you can cast spells, you can make a spell attack roll instead. If you succeed, your opponent takes the effects of a successful spell attack roll for their own spell (or the effects of a critical success if your attack roll was a critical success).
+
+Twin Riposte:
+Actions: Reaction
+Traits: Fighter, Ranger
+
+Trigger: A creature within your reach critically fails a Strike against you.
+Requirements: You are benefiting from Twin Parry.
+
+A clever parry with one weapon leaves your opponent open to an attack with the other weapon. Make a melee Strike or use a Disarm action against the triggering opponent.
+
+Knockback Strike:
+Actions: 2
+Traits: Concentrate, Monk
+
+You focus your strength into a blow powerful enough to push an enemy away from you. Make an unarmed Strike. If you hit, attempt an Athletics check to Shove the target. This attack uses the same multiple attack penalty as your Strike, and doesn’t count toward your multiple attack penalty.
+
+Sleeper Hold:
+Actions: 1
+Traits: Incapacitation, Monk
+
+Requirements: You have a creature grabbed or restrained.
+
+You pinch crucial points of your target’s nervous system, impeding its ability to function. Attempt an Athletics check to Grapple the creature, with the following success and critical success effects instead of the usual effects.
+
+Critical Success: The target falls unconscious for 1 minute, though it remains standing and doesn’t drop what it holds.
+Success: The target is clumsy 1 until the end of its next turn.
+
+Wind Jump:
+Prerequisites: ki spells
+
+You gather the wind beneath you, allowing you to soar as you jump. You gain the wind jump ki spell. Increase the number of Focus Points in your focus pool by 1.
+
+Winding Flow:
+Actions: 1
+Traits: Monk
+
+Frequency: once per round
+
+Any journey consists of more than simply reaching your destination. You use two of the following actions in any order: Stand, Step, and Stride. You can’t use the same action twice.
+
+Camouflage:
+Prerequisites: master in Stealth
+
+You alter your appearance to blend in to the wilderness. In natural terrain, you can Hide and Sneak even without cover or being concealed.
+
+Incredible Companion (Ranger):
+Prerequisites: Mature Animal Companion (Ranger)
+
+Your animal companion continues to grow and develop. It becomes a nimble or savage animal companion (your choice), gaining additional capabilities determined by the type of companion.
+
+Master Monster Hunter:
+Prerequisites: master in Nature; Monster Hunter
+
+You have a nearly encyclopedic knowledge of all creatures of the world. You can use Nature to Recall Knowledge to identify any creature. In addition, you gain the benefits of Monster Hunter (and Monster Warden, if you have it) on a success as well as a critical success.
+
+Penatraing Shot:
+Actions: 2
+Traits: Open, Ranger
+
+Requirements: You are wielding a ranged weapon.
+
+You shoot clear through an intervening creature to hit your prey. Choose a target that is giving lesser cover to your hunted prey. Make a single ranged Strike with the required weapon against the chosen target and your hunted prey. This attack ignores any lesser cover the chosen target provides your hunted prey. Roll damage only once, and apply it to each creature you hit. A Penetrating Shot counts as two attacks for your multiple attack penalty.
+
+Warden's Step:
+Prerequisites: master in Stealth
+
+You can guide your allies to move quietly through the wilderness. When you Avoid Notice during exploration in natural terrain, you can designate any number of your allies to gain the benefits as if they were using that activity during that exploration. This requires no action on their part.
+
+Precise Debilitations:
+Prerequisites: thief racket; Debilitating Strike
+
+You carefully aim and gracefully deliver your debilitations. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
+- Debilitation: The target takes an additional 2d6 precision damage from your attacks.
+- Debilitation: The target becomes flat-footed.
+
+Sneak Savant:
+Prerequisites: master in Stealth
+
+It is almost impossible to spot you without taking effort to look. When you roll a failure on a Sneak action, you get a success instead. You can still critically fail.
+
+Tactical Debilitations:
+Prerequisites: scoundrel racket; Debilitating Strike
+
+You learn new debilitations that grant you tactical advantages against your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
+- Debilitation: The target can’t use reactions.
+- Debilitation: The target can’t flank or contribute to allies’ flanking.
+
+Vicious Debilitations:
+Prerequisites: ruffian racket; Debilitating Strike
+
+The debilitations you dish out seriously impair your foes. Add the following debilitations to the list you can choose from when you use Debilitating Strike.
+- Debilitation: The target gains weakness 5 to your choice of bludgeoning, piercing, or slashing damage.
+- Debilitation: The target becomes clumsy 1.
+
+Greater Bloodline:
+Prerequisites: bloodline spell
+
+Further communion with the legacy of your bloodline has uncovered greater secrets. You gain the greater bloodline spell associated with your bloodline. Increase the number of Focus Points in your focus pool by 1.
+
+Scroll Savant:
+Prerequisites: expert in Crafting
+
+During your daily preparations, you can create two temporary scrolls containing arcane spells from your spellbook. These scrolls follow the normal rules for scrolls, with some additional restrictions. Each scroll must be of a different spell level, and both spell levels must be 2 or more levels lower than your highest-level spell. Any scrolls you create this way become non-magical the next time you make your daily preparations. A temporary scroll has no value.
+
+If you have master proficiency in arcane spell DCs, you can create three temporary scrolls during your daily preparations, and if you have legendary proficiency, you can create four temporary scrolls.

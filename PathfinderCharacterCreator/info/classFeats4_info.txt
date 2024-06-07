@@ -1,0 +1,412 @@
+Fast Movement:
+Your rage is a frenzy of rapid movements. While you are raging, you gain a +10-foot status bonus to your Speed.
+
+Raging Athlete:
+Prerequisites: expert in Athletics
+
+Physical obstacles can't hold back your fury. While you are raging, you gain a climb Speed and swim Speed equal to your land Speed and the DC of High Jumps and Long Jumps decreases by 10. Your distance for a vertical Leap increases to 5 feet vertically, and your distance for a horizontal Leap increases to 15 feet if your Speed is at least 15 feet and to 20 feet if your Speed is at least 30 feet.
+
+Swipe:
+Actions: 2
+Traits: Barbarian, Fighter, Flourish
+
+You make a wide, arcing swing. Make a single melee Strike and compare the attack roll result to the ACs of up to two foes, each of whom must be within your melee reach and adjacent to the other. Roll damage only once and apply it to each creature you hit. A Swipe counts as two attacks for your multiple attack penalty.
+
+If you're using a weapon with the sweep trait, its modifier applies to all your Swipe attacks.
+
+Wounded Rage:
+Trigger: You take damage and are capable of entering a rage.
+
+You roar in pain, awakening the rage within you. You Rage.
+
+Inspire Defense:
+Prerequisites: maestro muse
+
+You learn the inspire defense composition cantrip, which protects you and allies.
+
+Melodious Spell:
+Actions: 1
+Traits: Bard, Concentrate, Manipulate, Metamagic
+
+You subtly weave your spellcasting into your performance. If the next action you take is to Cast a Spell, attempt a Performance check against all observers’ Perception DCs. If your Performance check is successful against an observer’s Perception DC, that observer doesn’t notice that you are Casting a Spell, even though normally spells have sensory manifestations that would make spellcasting obvious to those around you, and verbal, somatic, and material components are extremely overt. You hide all of these as part of an ordinary performance.
+
+This hides only the spell’s spellcasting actions and manifestations, not its effects, so an observer might still see a ray streak out from you or see you vanish.
+
+Triple Time:
+You learn the triple time composition cantrip, which speeds up you and your allies for a round.
+
+Versatile Signature:
+Prerequisites: polymath muse
+
+While most bards are known for certain signature performances and spells, you’re always tweaking your available repertoire. When you make your daily preparations, you can change one of your signature spells to a different spell of that level from your repertoire.
+
+Aura of Courage:
+Prerequisites: tenets of good
+
+You stand strong in the face of danger and inspire your allies to do the same. Whenever you become frightened, reduce the condition value by 1 (to a minimum of 0). At the end of your turn when you would reduce your frightened condition value by 1, you also reduce the value by 1 for all allies within 15 feet.
+
+Divine Health:
+Prerequisites: tenets of good
+
+Your faith makes you resistant to disease, protecting you as you offer succor to the ill. You gain a +1 status bonus to saves against diseases. In addition, if you roll a success on a save against a disease, you get a critical success instead.
+
+Mercy:
+Actions: 1
+Traits: Champion, Concentate, Metamagic
+
+Archetype: Blessed One*
+* This archetype offers Mercy at a different level than displayed here.
+
+Your touch relieves fear and restores movement. If the next action you use is to cast lay on hands, you can attempt to counteract a fear effect or an effect imposing the paralyzed condition on the target, in addition to the other benefits of lay on hands.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Channel Smite:
+Actions: 2
+Traits: Cleric, Divine, Necromancy
+
+Cost: Expend a harm or heal spell.
+Prerequisites: harmful font or healing font
+
+You siphon the destructive energies of positive or negative energy through a melee attack and into your foe. Make a melee Strike and add the spell’s damage to the Strike’s damage. This is negative damage if you expended a harm spell or positive damage if you expended a heal spell. The spell is expended with no effect if your Strike fails or hits a creature that isn’t damaged by that energy type (such as if you hit a non-undead creature with a heal spell).
+
+Command Undead:
+Actions: 1
+Traits: Cleric, Concentrate, Metamagic
+
+Prerequisites: harmful font; evil alignment
+
+You grasp the animating force within an undead creature and bend it to your will. If the next action you use is to cast harm targeting one undead creature, you transform the effects of that harm spell. Instead of harm’s normal effects, the target becomes controlled by you if its level is equal to or lower than your level – 3. It can attempt a Will saving throw to resist being controlled by you. If the target is already under someone else’s command, the controlling creature also rolls a saving throw, and the undead uses the better result.
+
+Critical Success: The target is unaffected and is temporarily immune for 24 hours.
+Success: The target is unaffected.
+Failure: The undead creature becomes a minion under your control. The spell gains a duration of 1 minute, but it is dismissed if you or an ally attacks the minion undead.
+Critical Failure: As failure, but the duration is 1 hour.
+
+Directed Channel:
+You can shape the energy you channel in a single direction, reaching farther and in a more directed fashion. When you cast a version of harm or heal that has an area, you can make its area a 60-foot cone instead of a 30-foot emanation.
+
+Improved Communal Healing:
+Prerequisites: Communal Healing
+
+You can direct excess channeled energy outward to benefit an ally. You can grant the Hit Points you would regain from Communal Healing to any one creature within the range of your heal spell instead of yourself. You can also use Communal Healing when you target only yourself with a heal spell, though if you do, you must grant the additional healing to someone other than yourself.
+
+Necrotic Infusion:
+Actions: 1
+Traits: Cleric, Concentrate, Metamagic
+
+Prerequisites: harmful font; evil alignment
+
+You pour negative energy into your undead subject to empower its attacks. If the next action you use is to cast harm to restore Hit Points to a single undead creature, the target then deals an additional 1d6 negative damage with its melee weapons and unarmed attacks until the end of its next turn. If the harm spell is at least 5th level, this damage increases to 2d6, and if the harm spell is at least 8th level, the damage increases to 3d6.
+
+Form Control:
+Actions: 1
+Traits: Druid, Manipulate, Metamagic
+
+Prerequisites: Strength 14; Wild Shape
+
+With additional care and effort, you can take on an alternate form for a longer period of time. If your next action is to cast wild shape, wild shape’s spell level is 2 lower than normal (minimum 1st level), but you can remain transformed for up to 1 hour or the listed duration (whichever is longer). You can still Dismiss the form at any time, as permitted by the spell.
+
+Mature Animal Companion (Driud): 
+Prerequisites: Animal Companion
+
+Your animal companion grows up, becoming a mature animal companion, which grants it additional capabilities. See the animal companion rules for more information. Your animal companion is better trained than most. During an encounter, even if you don't use the Command an Animal action, your animal companion can still use 1 action on your turn that round to Stride or Strike.
+
+Order Magic:
+Prerequisites: Order Explorer
+
+You have delved deeper into the teaching of a new order, gaining access to a coveted order spell. Choose an order you have selected with Order Explorer. You gain the initial order spell from that order.
+
+Special: You can take this feat multiple times. Each time you do, you must choose a different order you have selected with Order Explorer.
+
+Thousand Faces:
+Prerequisites: Wild Shape
+
+Your form is as mutable as the weather, changing to meet your whim. You add the forms listed in humanoid form to your wild shape list.
+
+Woodland Stride:
+Prerequisites: leaf order
+
+You can always find a path, almost as if foliage parted before you. You ignore any difficult terrain caused by plants and fungi, such as bushes, vines, and undergrowth. Even plants and fungi manipulated by magic don’t impede your progress.
+
+Double Shot:
+Actions: 2
+Traits: Fighter, Flourish
+
+Archetype: Archer*
+
+Requirements: You are wielding a ranged weapon with reload 0.
+
+* This archetype offers Double Shot at a different level than displayed here.
+
+You shoot twice in blindingly fast succession. Make two Strikes, each against a separate target and with a –2 penalty. Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Dual-Handed Assault:
+Actions: 1
+Traits: Fighter, Flourish
+
+Requirements: You are wielding a one-handed melee weapon and have a free hand.
+
+You snap your free hand over to grip your weapon just long enough to add momentum and deliver a more powerful blow to your opponent. Make a Strike with the required weapon. You quickly switch your grip during the Strike in order to make the attack with two hands. If the weapon doesn't normally have the two-hand trait, increase its weapon damage die by one step for this attack. (Rules on increasing die size appear here). If the weapon has the two-hand trait, you gain the benefit of that trait and a circumstance bonus to damage equal to the weapon's number of damage dice. When the Strike is complete, you resume gripping the weapon with only one hand. This action doesn't end any stance or fighter feat effect that requires you to have one hand free.
+
+Knockdown:
+Actions: 2
+Traits: Fighter, Flourish
+
+Archetype: Mauler
+
+Prerequisites: trained in Athletics
+
+You make an attack to knock a foe off balance, then follow up immediately with a sweep to topple them. Make a melee Strike. If it hits and deals damage, you can attempt an Athletics check to Trip the creature you hit. If you're wielding a two-handed melee weapon, you can ignore Trip's requirement that you have a hand free. Both attacks count toward your multiple attack penalty, but the penalty doesn't increase until after you've made both of them.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Powerful Shove:
+Prerequisites: Aggressive Block, or Brutish Shove
+
+You can push larger foes around with your attack. You can use Aggressive Block or Brutish Shove against a creature up to two sizes larger than you.
+
+When a creature you Shove has to stop moving because it would hit an object, it takes damage equal to your Strength modifier (minimum 1). This happens regardless of how you Shoved the creature.
+
+Quick Reversal:
+Actions: 1
+Traits: Fighter, Flourish, Press
+
+Requirements: You are flanked by at least two enemies.
+
+You turn your foes’ flanking against them with a quick reverse. Make a melee Strike against one of the flanking enemies and make a second Strike with the same weapon or unarmed attack against a different enemy that is flanking you. This second Strike has the same multiple attack penalty of the initial attack and doesn’t count toward your multiple attack penalty.
+Traits
+
+Shielded Stride:
+Archetypes: Bastion*, Viking*
+* This archetype offers Shielded Stride at a different level than displayed here.
+
+When your shield is up, your enemies' blows can't touch you. When you have your shield raised, you can Stride to move half your Speed without triggering reactions that are triggered by your movement (such as Attacks of Opportunity). You can use Shielded Stride while Flying or Swimming instead of Striding if you have the corresponding movement type.
+
+Twin Parry:
+Actions: 1
+Traits: Fighter, Ranger, Swashbuckler
+
+Archetype: Dual-Weapon Warrior*
+
+Requirements: You are wielding two melee weapons, one in each hand.
+
+* This archetype offers Twin Parry at a different level than displayed here.
+
+You use your two weapons to parry attacks. You gain a +1 circumstance bonus to AC until the start of your next turn, or a +2 circumstance bonus if either weapon has the parry trait. You lose this circumstance bonus if you no longer meet this feat's requirement.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Deflect Arrow:
+Actions: Reaction
+Traits: Monk
+
+Trigger: You are the target of a physical ranged attack.
+Requirements: You’re aware of the attack, are not flat-footed against it, and have a hand free.
+
+You gain a +4 circumstance bonus to AC against the triggering attack. If the attack misses, you have deflected it. You cannot use this feat to deflect unusually massive ranged projectiles (such as boulders or ballista bolts).
+
+Flurry Of Maneuvers:
+Prerequisites: expert in Athletics
+
+Your flurry is a combination of maneuvers. You can replace one or both of your attacks during a Flurry of Blows with Grapples, Shoves, or Trips.
+
+Flying Kick:
+Actions: 2
+Traits: Monk
+
+You launch yourself at a foe. Make a Leap or attempt a High Jump or Long Jump. At the end of the jump, if you’re adjacent to a foe, you can immediately Strike that foe with an unarmed attack, even if the foe is in mid-air. You fall to the ground after the Strike. If the distance you fall is no more than the height of your jump, you land upright and take no damage.
+
+Guarded Movement:
+Archetype Ghoul*
+* This archetype offers Guarded Movement at a different level than displayed here.
+
+Your guard is up, even while moving. You gain a +4 circumstance bonus to AC against reactions triggered by your movement.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Stand Still:
+Actions: Reaction
+Traits: Monk
+
+Trigger: A creature within your reach uses a move action or leaves a square during a move action it’s using.
+You strike out when your foe tries to flee. Make a melee Strike against the triggering creature. If the attack is a critical hit and the trigger was a move action, you disrupt that action.
+
+Wholeness Of Body:
+Prerequisites: ki spells
+
+You can restore your health by tapping into your ki. You gain the wholeness of body ki spell. Increase the number of Focus Points in your focus pool by 1.
+
+Companion's Cry:
+Archetypes: Beastmaster*, Mammoth Lord*, Undead Master*
+
+Prerequisites: an animal companion
+
+* This archetype offers Companion's Cry at a different level than displayed here.
+
+You can urge your companion to do its utmost. You can spend 2 actions to Command an Animal instead of 1 when commanding your animal companion. If you do, your animal companion uses an additional action.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Disrupt Prey:
+Actions: Reaction
+Traits: Ranger
+
+Trigger: Your hunted prey is within your reach, and it uses a manipulate action, uses a move action, or leaves a square during a move action it’s using.
+
+Make a melee Strike against your prey. If the attack is a critical hit, you disrupt the triggering action.
+
+Far Shot:
+Your experience in the field has taught you how to focus your aim at a distance, increasing your accuracy. Double your weapons’ range increments.
+
+Favored Enemy:
+You have studied a specific type of wild creature and can hunt it more easily. When you gain this feat, choose animals, beasts, dragons, or both fungi and plants as your favored enemy. When you roll initiative and can see an enemy that belongs to the chosen category, you can Hunt Prey as a free action, designating that enemy.
+
+You can use this free action even if you haven’t identified the creature yet with Recall Knowledge. The benefit doesn’t apply against favored enemies disguised as other creatures, and the GM determines whether it applies against a creature disguised as a favored enemy.
+
+Running Reload:
+Actions: 1
+Traits: Gunslinger, Ranger
+
+Archetypes Alkenstar Agent*, Archer*, Drow Shootist*, Game Hunter*
+* This archetype offers Running Reload at a different level than displayed here.
+
+You can reload your weapon on the move. You Stride, Step, or Sneak, then Interact to reload.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Scout's Warning:
+Actions: Free Action
+Traits: Ranger, Rogue
+
+Archetype Knight Reclaimant*
+
+Trigger: You are about to roll a Perception or Survival check for initiative.
+
+* This archetype offers Scout's Warning at a different level than displayed here.
+
+You visually or audibly warn your allies of danger, granting them each a +1 circumstance bonus to their initiative rolls. Depending on whether you use gestures or call out, this action gains either the visual or auditory trait, respectively.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Snare Specialist:
+Prerequisites: expert in Crafting; Snare Crafting
+
+You specialize in creating quick traps to obstruct your enemies on the battlefield. If your proficiency rank in Crafting is expert, you gain the formulas for three common or uncommon snares. If your rank is master, you gain 6. If your rank is legendary, you gain 9.
+
+Each day during your daily preparations, you can prepare four snares from your formula book for quick deployment; if they normally take 1 minute to Craft, you can Craft them with 3 Interact actions. The number of snares increases to six if you have master proficiency in Crafting and eight if you have legendary proficiency in Crafting. Snares prepared in this way don't cost you any resources to Craft.
+
+Battle Assessment:
+Actions: 1
+Traits: Rofue, Secret
+
+With careful observation during battle, you identify an enemy’s strengths and weaknesses. The GM rolls a secret Perception check for you against the Deception or Stealth DC (whichever is higher) of an enemy of your choice who is not concealed from you, hidden from you, or undetected by you, and who is engaged in combat. The GM might apply a penalty for the distance between you and the enemy. The enemy is then temporarily immune to your Battle Assessment for 1 day.
+
+Critical Success: The GM chooses two of the following pieces of information about the enemy to tell you: which of the enemy’s weaknesses is highest, which of the enemy’s saving throws has the lowest modifier, one immunity the enemy has, or which of the enemy’s resistances is highest. If the event of a tie, the GM should pick one at random.
+Success: The GM chooses one piece of information from the above list to tell you about the enemy.
+Critical Failure: The GM gives you false information (the GM makes up the information).
+
+Dread Striker:
+Archetype Butterfly Blade*
+* This archetype offers Dread Striker at a different level than displayed here.
+
+You capitalize on your enemies’ fear to slip past their defenses. Any creature that has the frightened condition is also flat-footed against your attacks.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Magical Trickster:
+Whether you’re using magic items, wielding innate magic, or dabbling in spellcasting, you can sneak spells past your foes’ defenses as easily as any blade. When you succeed at a spell attack roll against a flat-footed foe’s AC and the spell deals damage, you can add your sneak attack damage to the damage roll. If your single spell leads to multiple separate damage rolls, apply your sneak attack damage only once per target.
+
+Poison Weapon:
+Actions: 1
+Traits: Manipulate, Rogue
+
+Archetypes Assassin*, Drow Shootist*, Poisoner*
+
+Requirements: You are wielding a piercing or slashing weapon.
+
+* This archetype offers Poison Weapon at a different level than displayed here.
+
+You apply a poison to the required weapon; if you have a free hand, you can Interact to draw a poison as part of this action. If your next attack with that weapon before the end of your next turn hits and deals damage, it applies the effects of the poison, provided that poison can be delivered by contact or injury. If you critically fail the attack roll, the poison is wasted as normal.
+
+Special: During your daily preparations, you can prepare a number of simple injury poisons equal to your rogue level. These poisons deal 1d4 poison damage. Only you can apply these poisons properly, and they expire the next time you prepare.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Reactive Pursuit:
+Actions: Reaction
+Traits: Rogue
+
+Archetypes Alkenstar Agent*, Ghoul*, Knight Reclaimant*
+
+Trigger: An adjacent foe moves away from you, and you can reach at least one space adjacent to the foe with a Stride action.
+
+* This archetype offers Reactive Pursuit at a different level than displayed here.
+
+You keep pace with a retreating foe. You Stride, but you must end your movement adjacent to the triggering enemy. Your move does not trigger reactions from the triggering enemy. You can use Reactive Pursuit to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Sabotage:
+Actions: 1
+Traits: Incapacitation, Rogue
+
+Requirements: You have a free hand.
+
+You subtly damage others’ equipment. Choose one item that a creature within your reach wields or carries. The item must have moving parts that you could possibly sabotage (a shortbow could be sabotaged, but a longsword could not). Attempt a Thievery check against the Reflex DC of the creature. Damage dealt by Sabotage can’t take the item below its Break Threshold.
+
+Critical Success: You deal damage equal to four times your Thievery proficiency bonus.
+Success: You deal damage equal to double your Thievery proficiency bonus.
+Critical Failure: Temporarily immune to your Sabotage for 1 day.
+
+Arcane Evolution:
+Prerequisites: bloodline that grants arcane spells
+
+Your arcane legacy grants you an exceptional aptitude for intellectual and academic pursuits. You become trained in one skill of your choice. Additionally, you keep a book of arcane spells similar to a wizard’s spellbook. You add all the spells in your spell repertoire to this book for free, and you can add additional arcane spells to the book by paying the appropriate cost and using your Arcana skill, similarly to how a wizard can Learn Spells to add those spells to his spellbook.
+
+During your daily preparations, choose any one spell from your book of arcane spells. If it isn’t in your spell repertoire, add it to your spell repertoire until the next time you prepare. If it’s already in your spell repertoire, add it as an additional signature spell for that day.
+
+Bespell Weapon:
+Actions: Free Action
+Traits: Oracle, Sorcerer, Wizard
+
+Frequency: once per turn
+Requirements: Your most recent action was to cast a non-cantrip spell.
+
+You siphon the residual energy from the last spell you cast into one weapon you're wielding. Until the end of your turn, the weapon deals an extra 1d6 damage of a type depending on the school of the spell you just cast.
+- Abjuration: force damage
+- Conjuration or Transmutation: the same type as the weapon
+- Divination, Enchantment, or Illusion: mental damage
+- Evocation: a type the spell dealt, or force damage if the spell didn't deal damage
+- Necromancy: negative damage
+
+Divine Evolution:
+Prerequisites: bloodline that grants divine spells
+
+The divine might provided by your bloodline flows through you. You gain an additional spell slot of your highest level, which you can use only to cast your choice of heal or harm. You can cast either of these spells using that spell slot, even if they aren’t in your spell repertoire.
+
+Occult Evolution:
+Prerequisites: bloodline that grants occult spells
+
+Glimpses of the obscure secrets of the universe loan you power. You become trained in one skill of your choice. Additionally, once per day, you can spend 1 minute to choose one mental occult spell you don’t know and add it to your spell repertoire. You lose this temporary spell the next time you make your daily preparations (though you can use this ability to add it again later).
+
+Primal Evolution:
+Prerequisites: bloodline that grants primal spells
+
+You can call upon the creatures of the wild for aid. You gain an additional spell slot of your highest level, which you can use only to cast summon animal or summon plants or fungus. You can cast either of these spells using that spell slot, even if it they aren’t in your spell repertoire.
+
+Linked Focus:
+Frequency: once per day
+Prerequisites: arcane bond; arcane school
+
+You have linked your bonded item to the well of energy that powers your school spells. When you Drain your Bonded Item to cast a spell of your arcane school, you also regain 1 Focus Point.
+
+Silent Spell:
+Actions: 1
+Traits: Concentrate, Metamagic, Wizard
+
+Prerequisites: Conceal Spell
+
+You’ve learned how to cast many of your spells without speaking the words of power you would normally need to provide. If the next action you use is Casting a Spell that has a verbal component and at least one other component, you can remove the verbal component. This makes the spell quieter and allows you to cast it in areas where sound can’t carry. However, the spell still has visual manifestations, so this doesn’t make the spell any less obvious to someone who sees you casting it. When you use Silent Spell, you can choose to gain the benefits of Conceal Spell, and you don’t need to attempt a Deception check because the spell has no verbal components.

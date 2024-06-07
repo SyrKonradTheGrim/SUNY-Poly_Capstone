@@ -1,0 +1,58 @@
+Character Name: Bill The Barbarian
+Ancestry: Dwarf
+Heritage: Rock Dwarf
+Background: Warrior
+Level: 20
+Class: Barbarian
+Strength: 20
+Dexterity: 12
+Constitution: 14
+Intelligence: 12
+Wisdom: 10
+Charisma: 8
+Acrobatics: 0
+Arcana: 1
+Athletics: 1
+Crafting: 1
+Deception: 1
+Diplomacy: 2
+Intimidation: 4
+Medicine: 2
+Nature: 2
+Occultism: 0
+Performance: 0
+Religion: 0
+Society: 2
+Stealth: 1
+Survival: 1
+Thievery: 1
+Ancestry Feat 1: Dwarven Lore
+Class Feat 1: Acute Vision
+Class Feat 2: Acute Scent
+Skill Feat 2: Assurance
+General Feat 3: Diehard
+Class Feat 4: Fast Movement
+Skill Feat 4: Powerful Leap
+Ancestry Feat 5: Boulder Roll
+Class Feat 6: Brutal Bully
+Skill Feat 6: Quick Squeeze
+General Feat 7: Armor Proficiency
+Class Feat 8: Furious Bully
+Skill Feat 8: Wall Jump
+Ancestry Feat 9: Stonewalker
+Class Feat 10: Come And Get Me
+Skill Feat 10: Quick Climb
+General Feat 11: Breath Control
+Class Feat 12: Dragon's Rage Wings
+Skill Feat 12: Titan Wrestler
+Ancestry Feat 13: Dwarven Weapon Expertise
+Class Feat 14: Whirlwind Strike
+Skill Feat 14: Combat Climber
+General Feat 15: Ride
+Class Feat 16: Dragon Transformation
+Skill Feat 16: Rapid Mantel
+Class Feat 18: Whirlwind Strike
+Skill Feat 18: Combat Climber
+General Feat 19: Automatic Knowledge
+Class Feat 20: Quaking Stomp
+Skill Feat 20: Skill Training

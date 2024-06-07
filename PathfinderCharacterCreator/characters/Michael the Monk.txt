@@ -1,0 +1,58 @@
+Character Name: Michael the Monk
+Ancestry: Human
+Heritage: Skilled Heritage
+Background: Acolyte
+Level: 1
+Class: Monk
+Strength: 14
+Dexterity: 18
+Constitution: 16
+Intelligence: 12
+Wisdom: 8
+Charisma: 10
+Acrobatics: 1
+Arcana: 0
+Athletics: 1
+Crafting: 0
+Deception: 0
+Diplomacy: 0
+Intimidation: 0
+Medicine: 1
+Nature: 1
+Occultism: 0
+Performance: 0
+Religion: 1
+Society: 1
+Stealth: 1
+Survival: 1
+Thievery: 0
+Ancestry Feat 1: Natural Skill
+Class Feat 1: Crane Stance
+Class Feat 2: --None Selected--
+Skill Feat 2: --None Selected--
+General Feat 3: --None Selected--
+Class Feat 4: --None Selected--
+Skill Feat 4: --None Selected--
+Ancestry Feat 5: --None Selected--
+Class Feat 6: --None Selected--
+Skill Feat 6: --None Selected--
+General Feat 7: --None Selected--
+Class Feat 8: --None Selected--
+Skill Feat 8: --None Selected--
+Ancestry Feat 9: --None Selected--
+Class Feat 10: --None Selected--
+Skill Feat 10: --None Selected--
+General Feat 11: --None Selected--
+Class Feat 12: --None Selected--
+Skill Feat 12: --None Selected--
+Ancestry Feat 13: --None Selected--
+Class Feat 14: --None Selected--
+Skill Feat 14: --None Selected--
+General Feat 15: --None Selected--
+Class Feat 16: --None Selected--
+Skill Feat 16: --None Selected--
+Class Feat 18: --None Selected--
+Skill Feat 18: --None Selected--
+General Feat 19: --None Selected--
+Class Feat 20: --None Selected--
+Skill Feat 20: --None Selected--

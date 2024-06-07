@@ -1,0 +1,209 @@
+Collateral Thrash:
+Prerequisites: Thrash
+
+When you Thrash a grabbed foe, you smack that foe into another nearby. Another foe adjacent to the grabbed foe also takes your Thrash damage, with a basic Reflex save against your class DC.
+
+Dragon Transformation:
+Actions: 1
+Traits: Barbarian, Concentrate, Polymorph, Primal, Rage, Transmutation
+
+Prerequisites: dragon instinct; Dragon's Rage Wings
+
+You transform into a ferocious Large dragon, gaining the effects of 6th-level dragon form except that you use your own AC and attack modifier, you apply your extra damage from Rage, and the Breath Weapon uses your class DC. The action to Dismiss the transformation gains the rage trait.
+
+At 18th level, you gain a +20-foot status bonus to your fly Speed, your damage bonus with dragon Strikes increases to +12, and you gain a +14 status bonus to your breath weapon damage.
+
+Reckless Abandon:
+Actions: Free Action
+Traits: Barbarian, Rage
+
+Trigger: Your turn begins, and you are at half or fewer Hit Points.
+
+Your blood boils when you take a beating, and you throw caution to the wind to finish the fight. You gain a +2 circumstance bonus to attack rolls, a –2 penalty to AC, and a –1 penalty to saves. These bonuses and penalties last until your Rage ends or until you are above half Hit Points, whichever comes first.
+
+Effortless Concentration:
+Actions: Free Action
+Traits: Bard, Druid, Sorcerer, Summoner, Witch, Wizard
+
+Trigger: Your turn begins
+
+You can maintain a spell with hardly a thought. You immediately gain the effects of the Sustain action, allowing you to extend the duration of one of your active spells.
+
+Special: This can only be used on a cantrip or spell from the class matching the one you gained this feat from.
+
+Studious Capacity:
+Prerequisites: enigma muse; legendary in Occultism
+
+Your continued study of occult magic has increased your magical capacity, allowing you to cast spells even when it seems impossible. You can cast one spell each day even after you’ve run out of spell slots of the appropriate spell rank, but you can’t use this ability to cast a spell of your highest spell rank.
+
+Auspicious Mount:
+Prerequisites: divine ally (steed); Imposing Destrier
+
+Guided by your ongoing care, your steed has developed incredible intelligence and skill. The mount you gained through the divine ally class feature is now a specialized animal companion. You can select one of the usual specializations or the auspice specialization.
+
+Auspice mounts gain the following benefits: Your companion is marked by your deity's religious symbol as a sacred creature of your deity. Its proficiency rank in Religion increases to expert, it can speak the language associated with your deity's servitors (Celestial for champions who follow the tenets of good), and its Intelligence modifier increases by 2 and its Wisdom modifier by 1.
+
+Instrument Of Zeal:
+Prerequisites: divine ally (blade); tenets of good
+
+Divine energy fills your weapon. Whenever you critically hit a foe with Blade of Justice or a Retributive Strike, your attack adds an extra damage die, and the target is slowed 1 on its next turn.
+
+Shield Of Grace:
+Prerequisites: Shield Warden
+
+You protect an ally with both your shield and your body. Whenever you use the Shield Block reaction to prevent damage to an ally, you can evenly split the remaining damage after the Shield Block between the ally and yourself.
+
+Eternal Bane:
+Prerequisites: evil alignment
+
+A life of evil has made you a nexus for your deity’s vile power. You’re continuously surrounded by a bane spell with a spell level equal to half your level (rounded up). The radius is 15 feet, and you can’t increase it. You can Dismiss the spell; if you do, it returns automatically after 1 minute.
+
+Eternal Blessing:
+Prerequisites: good alignment
+
+Your good deeds have brought your deity’s grace to you for all of eternity. You’re continuously surrounded by a bless spell with a spell level equal to half your level (rounded up). The radius is 15 feet, and you can’t increase it. You can Dismiss the spell; if you do, it returns automatically after 1 minute.
+
+Ressurectionist:
+You can cause a creature you bring back from the brink of death to thrive and continue healing. When you restore Hit Points to a dying creature or bring a dead creature back to life and restore Hit Points to it, you grant that creature fast healing 5 for 1 minute. This fast healing ends if the creature is knocked unconscious.
+
+Impaling Briars:
+Prerequisites: leaf order
+
+You can fill an area with devastating briars. You gain the impaling briars order spell (CR 382).
+
+Monstrosity Shape:
+Prerequisites: Wild Shape
+
+You can transform into a powerful magical creature. Add the purple worm and sea serpent forms listed in monstrosity form to your wild shape list. If you have Soaring Shape, also add the phoenix form to your wild shape list.
+
+Graceful Poise:
+Actions: 1
+Traits: Fighter, Stance
+
+Prerequisites: Double Slice
+
+With the right positioning, your off-hand weapon can strike like a scorpion's stinger. While you are in this stance, if you make your second Strike from Double Slice with an agile weapon, Double Slice counts as one attack when calculating your multiple attack penalty.
+
+Improved Reflexive Shield:
+Prerequisites: Reflexive Shield
+
+Your shield can help save nearby allies. When you use Shield Block against damage resulting from a Reflex save, adjacent allies who would take damage due to Reflex saves against the same effect also benefit from the damage reduction.
+
+Multishot Stance:
+Actions: 1
+Traits: Fighter, Stance
+
+Prerequisites: Triple Shot
+Requirements: You are wielding a ranged weapon with reload 0.
+
+You lock yourself in a stable position so you can fire swiftly and accurately. While you are in this stance, your penalty for Double Shot is reduced to –1, or –2 if you add the extra action to make three Strikes. If you move from your position, this stance ends.
+
+Twinned Defense (Fighter):
+Actions: 1
+Traits: Fighter, Stance
+
+Prerequisites: Twin Parry
+Requirements: You are wielding two melee weapons, one in each hand.
+
+You’re always ready to use your off-hand weapon to interfere with attacks against you. While you are in this stance, you constantly gain the benefits of the Twin Parry action.
+
+Enlightening Presence:
+You exude an aura of resolve. You and allies within 15 feet of you gain a +2 status bonus to Will saving throws against mental effects.
+
+Master Of Many Styles:
+Actions: Free Action
+Traits: Monk
+
+Prerequisites: Stance Savant (Monk)
+Trigger: Your turn begins
+
+You move between stances in an unceasing dance. You use an action with the stance trait.
+
+Quivering Palm:
+Prerequisites: ki spells
+
+Your strikes can kill foes. You gain the quivering palm ki spell. Increase the number of Focus Points in your focus pool by 1.
+
+Shattering Strike (Monk):
+Actions: 2
+Traits: Monk
+
+The force of your considered blow shatters objects and defenses alike. Make an unarmed Strike. It bypasses the target’s resistances. If the target has Hardness, the Strike treats the Hardness as if it were half its value.
+
+Greater Distracting Shot:
+Prerequisites: Distracting Shot
+
+Even a single missile can throw off your enemy’s balance, and more powerful attacks leave it flustered for longer. If you hit your hunted prey with a ranged weapon, it’s off-guard until the start of your next turn. If you critically hit your prey or hit it twice on the same turn with a ranged weapon, it’s off-guard until the end of your next turn instead.
+
+Improved Twin Riposte (Ranger):
+Prerequisites: Twin Riposte
+
+At the start of each of your turns, you gain an additional reaction that you can use only to perform a Twin Riposte against your hunted prey. You can use this extra reaction even if you are not benefiting from Twin Parry.
+
+Legendary Monster Hunter:
+Prerequisites: legendary in Nature; Master Monster Hunter
+
+Your knowledge of monsters is so incredible that it reveals glaring flaws in your prey. Your bonus from Monster Hunter (and the bonus from Monster Warden if you have it) increases from +1 to +2 for you and any allies who benefit.
+
+Specialized Companion (Ranger):
+Prerequisites: Incredible Companion (Ranger)
+
+Your animal companion has become cunning enough to become specialized. Your animal companion gains one specialization of your choice.
+
+Ubiquitous Snares:
+Prerequisites: Snare Specialist
+
+You can prepare a seemingly impossible number of snares in advance, and you’re ready to spring them on unsuspecting foes. Double the number of prepared snares from Snare Specialist.
+
+Blank Slate:
+Prerequisites: legendary in Deception
+
+Your deceptions confound even the most powerful mortal divinations. Detection, revelation, and scrying effects pass right over you, your possessions, and your auras, detecting nothing unless the detecting effect has a counteract level of 10 or higher. For example, detect magic would still detect other magic in the area but not any magic on you, true seeing wouldn't reveal you, locate or scrying wouldn't find you, and so on.
+
+Cloud Step:
+Prerequisites: legendary in Acrobatics
+
+Using fantastic acrobatic skill, you can walk for brief stretches across insubstantial surfaces. When you Stride, you can move across water, air, and solid surfaces that can hold only limited weight as if they were normal ground. If you Stride over a trap with a weight-sensitive pressure plate, you don’t trigger it. At the end of your turn, you sink, fall, break fragile surfaces, or trigger traps as normal for your current location.
+
+Cognitive Loophole:
+Actions: Reaction
+Traits: Rogue
+
+Trigger: Your turn ends.
+Requirements: You are currently affected by a mental effect that you gained by failing, but not critically failing, a saving throw.
+
+You can find a loophole in a mental effect to temporarily overcome it. Until the end of your next turn, you ignore a single mental effect that meets the requirement. You can suppress a particular effect using Cognitive Loophole only once.
+
+Special: You can use this reaction even if the mental effect is preventing you from using reactions.
+
+Dispelling Slice:
+Actions: 2
+Traits: Rogue
+
+Your sneak attack slices through the threads binding magic to a target. Make a Strike against a flat-footed creature. If your Strike deals sneak attack damage, you attempt to counteract a single spell active on the target (your choice). Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC – 10.
+
+Perfect Distraction:
+Actions: 1
+Traits: Rogue
+
+Prerequisites: legendary in Deception
+
+You use clever tactics to mislead your foes as you sneak away. You Sneak while leaving a decoy behind. The decoy acts as the spell mislead, though you aren’t invisible, just undetected. You can continue to concentrate to move your decoy, as with the spell, whether or not you remain hidden throughout the duration. Once you use Perfect Distraction, you need to spend 10 minutes to set up another decoy before you can use it again.
+
+Greater Mental Evolution:
+Prerequisites: Arcane Evolution, or Occult Evolution
+
+Your bloodline’s deep connection to mental essence greatly enhances your spell repertoire. Add one spell to your spell repertoire for each spell level you can cast.
+
+Greater Vital Evolution:
+Prerequisites: Divine Evolution, or Primal Evolution
+
+Vital power surges through you like a font of energy. Twice per day, you can cast a spell after you’ve run out of spell slots of the appropriate spell level; the two spells you cast with this feat must be of different spell levels.
+
+Spell Tinker:
+Actions: 2
+Traits: Concentrate, Wizard
+
+You’ve learned to alter choices you make when casting spells on yourself. After casting a spell on only yourself that offers several choices of effect (such as resist energy, spell immunity, or a polymorph spell that offers several potential forms), you can alter the choice you made when Casting the Spell (for instance, choosing a different type of damage for resist energy). However, your tinkering weakens the spell’s integrity, reducing its remaining duration by half.
+
+You can’t use this feat if the benefits of the spell have already been used up or if the effects of the first choice would persist in any way after switching (for instance, if one of the choices was to create a consumable item you already used, or to heal you), or if the feat would create an effect more powerful than that offered by the base spell. The GM is the final arbiter of what Spell Tinker can be applied to.

@@ -1,0 +1,371 @@
+Acute Vision:
+When you are raging, your visual senses improve, granting you darkvision.
+
+Moment Of Clarity:
+Actions: 1
+Traits: Barbarian, Concentrate, Rage
+
+You push back your rage for a moment in order to think clearly. Until the end of this turn, you can use actions with the concentrate trait even if those actions don’t have the rage trait.
+
+Raging Intimidation:
+Your fury fills your foes with fear. While you are raging, your Demoralize and Scare to Death actions (from the Intimidation skill and an Intimidation skill feat, respectively) gain the rage trait, allowing you to use them while raging. As soon as you meet the prerequisites for the skill feats Intimidating Glare and Scare to Death, you gain these feats.
+
+Raging Thrower:
+Thrown weapons become especially deadly in your fury. You apply the additional damage from Rage to your thrown weapon attacks. If you have the Brutal Critical feat or the devastator class feature, apply their benefits to thrown weapon attacks.
+
+Sudden Charge:
+Actions: 2
+Traits: Barbarian, Fighter, Flourish, Open
+
+With a quick sprint, you dash up to your foe and swing. Stride twice. If you end your movement within melee reach of at least one enemy, you can make a melee Strike against that enemy. You can use Sudden Charge while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+
+Bardic Lore:
+Prerequisites: enigma muse
+
+Your studies make you informed on every subject. You are trained in Bardic Lore, a special Lore skill that can be used only to Recall Knowledge, but on any topic. If you have legendary proficiency in Occultism, you gain expert proficiency in Bardic Lore, but you can’t increase your proficiency rank in Bardic Lore by any other means.
+
+Lingering Composition:
+Prerequistites: maestro muse
+
+By adding a flourish, you make your compositions last longer. You learn the lingering composition focus spell. Increase the number of Focus Points in your focus pool by 1.
+
+Reach Spell:
+Actions: 1
+Traits: Bard, Cleric, Concentrate, Druid, Metamagic, Oracle, Sorcerer, Witch, Wizard
+
+You can extend the range of your spells. If the next action you use is to Cast a Spell that has a range, increase that spell’s range by 30 feet. As is standard for increasing spell ranges, if the spell normally has a range of touch, you extend its range to 30 feet.
+
+Versatile Performance:
+Prerequisites: polymath muse
+
+You can rely on the grandeur of your performances rather than ordinary social skills. You can use Performance instead of Diplomacy to Make an Impression and instead of Intimidation to Demoralize. You can also use an acting Performance instead of Deception to Impersonate. You can use your proficiency rank in Performance to meet the requirements of skill feats that require a particular rank in Deception, Diplomacy, or Intimidation.
+
+Deity's Domain:
+You embody an aspect of your deity. Choose one of your deity's domains. You gain the domain's initial domain spell as a devotion spell.
+
+Ranged Reprisal:
+You can use Retributive Strike with a ranged weapon. In addition, if the foe that triggered your reaction is within 5 feet of your reach but not in your reach, as part of your reaction you can Step to put the foe in your reach before making a melee Retributive Strike.
+
+Unimpeded Step:
+Prerequisites: liberator cause
+
+With a burst of divine liberation, your ally’s movement from your Liberating Step is unaffected by difficult terrain, greater difficult terrain, narrow surfaces, and uneven ground.
+
+Weight of Guilt:
+Prerequisites: redeemer cause
+
+Guilt clouds the minds of those who ignore your Glimpse of Redemption. Instead of making the triggering creature enfeebled 2, you can make it stupefied 2 for the same duration.
+
+Deadly Simplicity:
+Prerequisites: deity with a simple or unarmed attack favored weapon, trained with your deity's favored weapon
+
+Your deity’s weapon is especially powerful in your hands. When you are wielding your deity’s favored weapon, increase the damage die size of that weapon by one step. If your deity’s favored weapon is an unarmed attack (such as a fist, if you worship Irori) and its damage die is smaller than d6, instead increase its damage die size to d6.
+
+Domain Initiate:
+Archetype Soul Warden*
+* This archetype offers Domain Initiate at a different level than displayed here.
+
+Your deity bestows a special spell related to their powers. Select one domain—a subject of particular interest to you within your religion—from your deity's list. You gain an initial domain spell for that domain, a spell unique to the domain and not available to other clerics. Each domain's theme and domain spells can be found here.
+
+Domain spells are a type of focus spell. It costs 1 Focus Point to cast a focus spell, and you start with a focus pool of 1 Focus Point. You refill your focus pool during your daily preparations, and you can regain 1 Focus Point by spending 10 minutes using the Refocus activity to pray to your deity or do service toward their causes.
+
+Focus spells are automatically heightened to half your level rounded up. Focus spells don't require spell slots, nor can you cast them using spell slots. Certain feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 Focus Points. The full rules for focus spells appear here.
+
+Special: You can select this feat multiple times, selecting a different domain each time and gaining its domain spell.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Harming Hands:
+Prerequisites: harmful font
+The mordant power of your negative energy grows. When you cast harm, you roll d10s instead of d8s.
+
+Healing Hands:
+Prerequisites: healing font
+Your positive energy is even more vibrant and restorative. When you cast heal, you roll d10s instead of d8s.
+
+Holy Castigation:
+Prerequisites: good alignment
+You combine holy energy with positive energy to damage demons, devils, and their evil ilk. Heal spells you cast damage fiends as though they were undead.
+
+Animal Companion:
+Prerequisites: [Druid] animal order
+You gain the service of a young animal companion that travels with you on your adventures and obeys any simple commands you give it to the best of its abilities. See Animal Companions for more information.
+
+Ranger: When you Hunt Prey, your animal companion gains the action's benefits and your hunter's edge benefit if you have one.
+
+Leshy Familiar:
+Prerequisites: leaf order
+
+You gain a leshy familiar, a Tiny plant (or fungus for a fungus leshy) that embodies one of the many spirits of nature. Other than taking the form of a plant instead of an animal, this familiar uses all the same rules as other familiars, which are detailed on CR 217.
+
+Storm Born:
+Prerequisites: storm order
+
+You are at home out in the elements, reveling in the power of nature unleashed. You do not take circumstance penalties to ranged spell attacks or Perception checks caused by weather, and your targeted spells don’t require a flat check to succeed against a target concealed by weather (such as fog).
+
+Widen Spell:
+Actions: 1
+Traits: Druid, Manipulate, Metamagic, Oracle, Sorcerer, Witch, Wizard
+
+You manipulate the energy of your spell, causing it to spread out and affect a wider area. If the next action you use is to Cast a Spell that has an area of a burst, cone, or line and does not have a duration, increase the area of that spell. Add 5 feet to the radius of a burst that normally has a radius of at least 10 feet (a burst with a smaller radius is not affected). Add 5 feet to the length of a cone or line that is normally 15 feet long or smaller, and add 10 feet to the length of a larger cone or line.
+
+Wild Shape:
+Prerequisites: wild order
+
+You are one with the wild, always changing and adapting to meet any challenge. You gain the wild shape order spell, which lets you transform into a variety of forms that you can expand with druid feats.
+
+Double Slice:
+Actions: 2
+Traits: Fighter
+
+Requirements: You are wielding two melee weapons, each in a different hand.
+
+You lash out at your foe with both weapons. Make two Strikes, one with each of your two melee weapons, each using your current multiple attack penalty. Both Strikes must have the same target. If the second Strike is made with a weapon that doesn't have the agile trait, it takes a –2 penalty.
+
+If both attacks hit, combine their damage, and then add any other applicable effects from both weapons. You add any precision damage only once, to the attack of your choice. Combine the damage from both Strikes and apply resistances and weaknesses only once. This counts as two attacks when calculating your multiple attack penalty.
+
+Exacting Strike:
+Actions: 1
+Traits: Fighter, Press
+
+You make a controlled attack, fully accounting for your momentum. Make a Strike. The Strike gains the following failure effect.
+
+Failure: This attack does not count toward your multiple attack penalty.
+
+Point-Blank Shot:
+Actions: 1
+Traits: Fighter, Open, Stance
+
+Archetype: Archer*
+
+Requirements: You are wielding a ranged weapon.
+
+* This archetype offers Point-Blank Shot at a different level than displayed here.
+
+You take aim to pick off nearby enemies quickly. When using a ranged volley weapon while you are in this stance, you don't take the penalty to your attack rolls from the volley trait. When using a ranged weapon that doesn't have the volley trait, you gain a +2 circumstance bonus to damage rolls on attacks against targets within the weapon's first range increment.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Power Attack:
+Actions: 2
+Traits: Fighter, Flourish
+
+Archetype: Mauler*
+* This archetype offers Power Attack at a different level than displayed here.
+
+You unleash a particularly powerful attack that clobbers your foe but leaves you a bit unsteady. Make a melee Strike. This counts as two attacks when calculating your multiple attack penalty. If this Strike hits, you deal an extra die of weapon damage. If you’re at least 10th level, increase this to two extra dice, and if you’re at least 18th level, increase it to three extra dice.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Reactive Shield:
+Actions: Reaction
+Traits: Fighter
+
+Archetype: Viking*
+
+Trigger: An enemy hits you with a melee Strike.
+
+Requirements: You are wielding a shield.
+
+* This archetype offers Reactive Shield at a different level than displayed here.
+You can snap your shield into place just as you would take a blow, avoiding the hit at the last second. You immediately use the Raise a Shield action and gain your shield's bonus to AC. The circumstance bonus from the shield applies to your AC when you're determining the outcome of the triggering attack.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Snagging Strike:
+Actions: 1
+Traits: Fighter
+
+Archetype: Wrestler*
+
+Requirements: You have one hand free, and your target is within reach of that hand.
+
+* This archetype offers Snagging Strike at a different level than displayed here.
+
+You combine an attack with quick grappling moves to throw an enemy off balance as long as it stays in your reach. Make a Strike while keeping one hand free. If this Strike hits, the target is flat-footed until the start of your next turn or until it's no longer within the reach of your hand, whichever comes first.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Crane Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Archetype: Martial Artist*
+
+Requirements: You are unarmored.
+
+* This archetype offers Crane Stance at a different level than displayed here.
+
+You enter the stance of a crane, holding your arms in an imitation of a crane’s wings and using flowing, defensive motions. You gain a +1 circumstance bonus to AC, but the only Strikes you can make are crane wing attacks. These deal 1d6 bludgeoning damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits.
+
+While in Crane Stance, reduce the DC for High Jump and Long Jump by 5, and when you Leap, you can move an additional 5 feet horizontally or 2 feet vertically.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Dragon Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Archetype: Martial Artist*
+
+Requirements: You are unarmored.
+
+* This archetype offers Dragon Stance at a different level than displayed here.
+
+You enter the stance of a dragon and make powerful leg strikes like a lashing dragon’s tail. You can make dragon tail attacks that deal 1d10 bludgeoning damage. They are in the brawling group and have the backswing, nonlethal, and unarmed traits.
+
+While in Dragon Stance, you can ignore the first square of difficult terrain while Striding.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Ki Rush:
+You can use ki to move with extraordinary speed and make yourself harder to hit. You gain the ki rush ki spell and a focus pool of 1 Focus Point. The rules for ki spells are summarized in the Key Terms section on the monk class page, and the full rules for focus spells appear on CR 300.
+
+Ki Strike:
+Your study of the flow of mystical energy allows you to harness it into your physical strikes. You gain the ki strike ki spell and a focus pool of 1 Focus Point. The rules for ki spells are summarized in the Key Terms section on the monk class page, and the full rules for focus spells appear on CR 300.
+
+Monastic Weaponry:
+You have trained with the traditional weaponry of your monastery or school. You gain access to uncommon weapons that have the monk trait and become trained in simple and martial monk weapons. When your proficiency rank for unarmed attacks increases to expert or master, your proficiency rank for these weapons increases to expert or master as well.
+
+You can use melee monk weapons with any of your monk feats or monk abilities that normally require unarmed attacks, though not if the feat or ability requires you to use a single specific type of attack, such as Crane Stance.
+
+Mountain Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Archetype: Martial Artist*
+
+Requirements: You are unarmored and touching the ground.
+
+* This archetype offers Mountain Stance at a different level than displayed here.
+
+You enter the stance of an implacable mountain—a technique first discovered by dwarven monks—allowing you to strike with the weight of an avalanche. The only Strikes you can make are falling stone unarmed attacks. These deal 1d8 bludgeoning damage; are in the brawling group; and have the forceful, nonlethal, and unarmed traits.
+
+While in Mountain Stance, you gain a +4 item bonus to AC and a +2 circumstance bonus to any defenses against being Shoved or Tripped. However, you have a Dexterity modifier cap to your AC of +0, meaning you don't add your Dexterity to your AC, and your Speeds are all reduced by 5 feet. The item bonus to AC from Mountain Stance is cumulative with armor potency runes on your explorer's clothing, mage armor, and bracers of armor.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits. 
+
+Tiger Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Archetype: Martial Artist*
+
+Requirements: You are unarmored.
+
+* This archetype offers Tiger Stance at a different level than displayed here.
+
+You enter the stance of a tiger and can make tiger claw attacks. These deal 1d8 slashing damage; are in the brawling group; and have the agile, finesse, nonlethal, and unarmed traits. On a critical success with your tiger claws, if you deal damage, the target takes 1d4 persistent bleed damage.
+
+As long as your Speed is at least 20 feet while in Tiger Stance, you can Step 10 feet.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Wolf Stance:
+Actions: 1
+Traits: Monk, Stance
+
+Archetype: Martial Artist*
+
+Requirements: You are unarmored.
+
+* This archetype offers Wolf Stance at a different level than displayed here.
+
+You enter the stance of a wolf, low to the ground with your hands held like fanged teeth. You can make wolf jaw unarmed attacks. These deal 1d8 piercing damage; are in the brawling group; and have the agile, backstabber, finesse, nonlethal, and unarmed traits.
+
+If you’re flanking a target while in Wolf Stance, your wolf jaw unarmed attacks also gain the trip trait.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Crossbow Ace:
+You have a deep understanding of the crossbow. When you're wielding a crossbow and use Hunt Prey or use Interact to reload your crossbow, you gain a +2 circumstance bonus to the damage roll on your next Strike with that crossbow. If the crossbow is a simple crossbow, also increase the damage die size for that attack by one step. You must make the attack before the end of your next turn or these benefits are lost.
+
+Hunted Shot:
+Actions: 1
+Traits: Flourish, Ranger
+
+Frequency: once per round
+Requirements: You are wielding a ranged weapon with reload 0.
+
+You take two quick shots against the one you hunt. Make two Strikes against your prey with the required weapon. If both hit the same creature, combine their damage for the purpose of resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.
+
+Monster Hunter:
+You swiftly assess your prey and apply what you know. As part of the action used to Hunt your Prey, you can attempt a check to Recall Knowledge about your prey. When you critically succeed at identifying your hunted prey with Recall Knowledge, you note a weakness in the creature’s defenses. You and allies you tell gain a +1 circumstance bonus to your next attack roll against that prey. You can give bonuses from Monster Hunter only once per day against a particular creature.
+
+Twin Takedown:
+Action: 1
+Traits: Flourish, Ranger
+
+Frequency: once per round
+Requirements: You are wielding two melee weapons, each in a different hand.
+
+You swiftly attack your hunted prey with both weapons. Make two Strikes against your hunted prey, one with each of the required weapons. If both hit the same hunted prey, combine their damage for the purpose of its resistances and weaknesses. Apply your multiple attack penalty to each Strike normally.
+
+Nimble Dodge:
+Actions: Reaction
+Traits: Rogue, Swashbuckler
+
+Trigger: A creature targets you with an attack and you can see the attacker.
+Requirements: You are not encumbered.
+
+You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.
+
+Trap Finder:
+Archetype: Archaeologist*
+* This archetype offers Trap Finder at a different level than displayed here.
+
+You have an intuitive sense that alerts you to the dangers and presence of traps. You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
+
+You can disable traps that require a proficiency rank of master in Thievery. If you have master proficiency in Thievery, you can disable traps that require a proficiency rank of legendary instead, and your circumstance bonuses against traps increase to +2.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Twin Feint:
+Actions: 2
+Traits: Rogue
+
+Requirements:  You are wielding two melee weapons, each in a different hand.
+
+You make a dazzling series of attacks with both weapons, using the first attack to throw your foe off guard against a second attack at a different angle. Make one Strike with each of your two melee weapons, both against the same target. The target is automatically flat-footed against the second attack. Apply your multiple attack penalty to the Strikes normally.
+
+You're Next:
+Actions: Reaction
+Traits: Emotion, Fear, Mental, Rogue, Swashbuckler
+
+Prerequisites: trained in Intimidation
+Trigger: You reduce an enemy to 0 Hit Points.
+
+After downing a foe, you menacingly remind another foe that you’re coming after them next. Attempt an Intimidation check with a +2 circumstance bonus to Demoralize a single creature that you can see and that can see you. If you have legendary proficiency in Intimidation, you can use this as a free action with the same trigger.
+
+Counterspell:
+Actions: Reaction
+Traits: Abjuration, Arcane, Sorcerer, Witch, Wizard
+
+Trigger: A creature Casts a Spell that you have prepared.
+Requirements: [Sorcerer] You have an unexpended spell slot you could use to cast the triggering spell.
+
+When a foe Casts a Spell and you can see its manifestations, you can use your own magic to counter it.
+
+[Witch, Wizard]: You expend a prepared spell to counter the triggering creature’s casting of that same spell. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell.
+
+[Sorcerer]: You expend one of your spell slots to counter the triggering creature’s casting of a spell that you have in your repertoire. You lose your spell slot as if you had cast the triggering spell. You then attempt to counteract the triggering spell.
+
+Special: [Sorcerer] This feat has the trait corresponding to the tradition of spells you cast (arcane, divine, occult, or primal).
+
+Dangerous Sorcery:
+Your legacy grants you great destructive power. When you Cast a Spell from your spell slots, if the spell deals damage and doesn’t have a duration, you gain a status bonus to that spell’s damage equal to the spell’s level.
+
+Familiar:
+Archetypes: Elementalist*, Elementalist*, Shadowcaster*, Soul Warden*
+
+* This archetype offers Familiar at a different level than displayed here.
+
+You make a pact with a creature that serves you and assists your spellcasting. You gain a familiar.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Eschew Materials:
+You can use clever workarounds to replicate the arcane essence of certain materials. When Casting a Spell that requires material components, you can provide these material components without a material component pouch by drawing intricate replacement sigils in the air. Unlike when providing somatic components, you still must have a hand completely free. This doesn't remove the need for any materials listed in the spell's cost entry.
+
+Hand Of The Apprentice:
+You can magically hurl your weapon at your foe. You gain the hand of the apprentice universalist spell. Universalist spells are a type of focus spell, much like school spells. You start with a focus pool of 1 Focus Point.

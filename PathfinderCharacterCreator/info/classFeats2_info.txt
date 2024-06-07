@@ -1,0 +1,327 @@
+Acute Scent:
+Prerequisites: Acute Vision, or darkvision
+
+When you Rage, your sense of smell improves. You gain imprecise scent with a range of 30 feet.
+
+Furious Finish:
+Actions: 1
+Traits: Barbarian, Rage
+
+Desperate to finish the fight, you pour all your rage into one final blow. Make a Strike. If it hits, you gain a circumstance bonus to damage equal to the number of rounds remaining in your Rage (maximum 10). After this Strike, your Rage immediately ends, and you are fatigued until you rest for at least 10 minutes.
+
+No Escape:
+Actions: Reaction
+Traits: Barbarian, Rage
+
+Trigger: A foe within reach attempts to move away from you.
+
+You keep pace with a retreating foe. Stride up to your Speed, following the foe and keeping it in reach throughout its movement until it stops moving or you’ve moved your full Speed. You can use No Escape to Burrow, Climb, Fly, or Swim instead of Stride if you have the corresponding movement type.
+
+Second Wind:
+You can enter a second rage, but afterward you need to catch your breath. You can Rage without waiting for 1 minute after the previous Rage (or 1 round, with quick rage), but when you end this second Rage, you’re fatigued until you rest for 10 minutes.
+
+Shake It Off:
+Actions: 1
+Traits: Barbarian, Concentrate, Rage
+You concentrate on your rage, overcoming fear and fighting back sickness. Reduce your frightened condition value by 1, and attempt a Fortitude save to recover from the sickened condition as if you had spent an action retching; you reduce your sickened condition value by 1 on a failure (but not on a critical failure), by 2 on a success, or by 3 on a critical success.
+
+Cantrip Expansion:
+A greater understanding of your magic broadens your range of simple spells.
+
+Prepared Caster (Cleric, Wizard, etc.): You can prepare two additional cantrips each day.
+Spontaneous Caster (Bard, Sorcerer, etc.): Add two additional cantrips from your spell list to your repertoire.
+
+Esoteric Polymath:
+Prerequisites: polymath muse
+
+You keep a book of occult spells, similar to a wizard's spellbook, and can use its spells to supplement your spell repertoire. Add all the spells in your repertoire to this book for free. You can use the Occultism skill to Learn Spells and add them to your spellbook by paying the appropriate cost, similar to a wizard.
+
+During your daily preparations, choose any one spell from your book of occult spells. If that spell is already in your spell repertoire, you can treat it as an additional signature spell that day. If it isn't in your repertoire, treat it as though it were until your next daily preparations.
+
+Inspire Competence:
+Prerequisites: maestro muse
+
+You learn the inspire competence composition cantrip, which aids your allies’ skills.
+
+Loremaster's Etude:
+Archetype: Loremaster*
+
+Prerequisites: enigma muse
+
+* This archetype offers Loremaster's Etude at a different level than displayed here.
+
+You magically unlock memories, making them easier to recall. You learn the loremaster’s etude composition spell. Increase the number of Focus Points in your focus pool by 1.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Multifarious Muse:
+Your muse doesn’t fall into a single label. Choose a type of muse other than that of your own. You gain a 1st-level feat that requires that muse, and your muse is now also a muse of that type, allowing you to take feats with the other muse as a prerequisite. You don’t gain any of the other effects of the muse you chose.
+
+Special: You can take this feat multiple times. Each time you do, you must choose a different type of muse other than that of your own.
+
+Divine Grace:
+Trigger: You attempt a save against a spell, before you roll.
+
+You call upon your deity’s grace, gaining a +2 circumstance bonus to the save.
+
+Dragonslayer Oath:
+Prerequisites: tenets of good
+
+You’ve sworn to slay evil dragons. Add the following tenet to your code after the others: “You must slay evil dragons you encounter as long as you have a reasonable chance of success.”
+
+Your Retributive Strike gains a +4 circumstance bonus to damage against an evil dragon, or +6 if you have master proficiency with the weapon you used. Your Glimpse of Redemption’s resistance against damage from an evil dragon is 7 + your level. If you use Liberating Step triggered by an evil dragon, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
+
+You don’t consider evil dragons to be legitimate authorities, even in nations they rule.
+
+Fiendsbane Oath:
+Prerequisites: tenets of good
+
+You’ve sworn an oath to banish the corruption of fiends to the dark planes they call home. Add the following tenet to your champion’s code after the other tenets: “You must banish or slay fiends you come across as long as you have a reasonable chance of success; in the incredibly unlikely event you find a good fiend, you don’t have to banish or kill it.”
+
+Your Retributive Strike gains a +4 circumstance bonus to damage against a fiend, or a +6 circumstance bonus if you have master proficiency with the weapon you used. Your Glimpse of Redemption’s resistance against damage from a fiend is 7 + your level. If you use Liberating Step triggered by a fiend, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
+
+You don’t consider fiends to be legitimate authorities, even in nations ruled by fiends.
+
+Shining Oath:
+Prerequisites: tenets of good
+
+You’ve sworn an oath to put the undead to rest. Add the following tenet to your champion’s code after the other tenets: “You must end the existence of undead you encounter as long as you have a reasonable chance of success; in the unlikely event you find a good undead, you can try to work out a more peaceful way to help it recover from its undead state rather than destroying it in combat, such as helping it complete its unfinished business and find peace.”
+
+Your Retributive Strike gains a +4 circumstance bonus to damage against an undead, or +6 if you have master proficiency with the weapon you used. Your Glimpse of Redemption’s resistance against damage from an undead is 7 + your level. If you use Liberating Step triggered by an undead, your ally gains a +4 circumstance bonus to checks granted by your Liberating Step, and the ally can Step twice afterward.
+
+You don’t consider undead to be legitimate authorities, even in nations ruled by undead.
+
+Vengeful Oath:
+Prerequisites: paladin cause
+
+You’ve sworn an oath to hunt down wicked evildoers and bring them to judgment. Add the following tenet to your code after the others: “You must hunt down and exterminate evil creatures that have committed heinous atrocities as long as you have a reasonable chance of success and aren’t engaged in a mission that would prevent your doing so.”
+
+You can use lay on hands to damage a creature you witness harming an innocent or a good ally as if it were undead; in this case, lay on hands deals good damage instead of positive damage and gains the good trait. This good damage can affect non-evil creatures. This doesn’t prevent you from healing such a creature with lay on hands; you choose whether to heal or harm.
+
+Communal Healing:
+You’re a conduit for positive energy, and as you channel it through you, it heals some of your minor injuries. When you cast the heal spell to heal a single creature other than yourself, you regain Hit Points equal to the spell level of the heal spell.
+
+Emblazon Armament:
+Carefully etching a sacred image into a physical object, you steel yourself for battle. You can spend 10 minutes emblazoning a symbol of your deity upon a weapon or shield. The symbol doesn’t fade until 1 year has passed, but if you Emblazon an Armament, any symbol you previously emblazoned and any symbol already emblazoned on that item instantly disappears. The item becomes a religious symbol of your deity and can be used as a divine focus while emblazoned, and it gains another benefit determined by the type of item. This benefit applies only to followers of the deity the symbol represents.
+
+- Shield: The shield gains a +1 status bonus to its Hardness. (This causes it to reduce more damage with the Shield Block reaction.)
+- Weapon: The wielder gains a +1 status bonus to damage rolls.
+
+Sap Life:
+You draw the life force out of your enemies to heal your own wounds. When you cast a harm spell and damage at least one living creature, you regain Hit Points equal to the spell level of your harm spell. If you aren’t a living creature, you gain no benefit from this feat.
+
+Turn Undead:
+Undead harmed by your positive energy might flee, compelled by an innate aversion to the force opposite undeath. When you use a heal spell to damage undead, each undead of your level or lower that critically fails its save gains the fleeing condition for 1 round.
+
+Versatile Font:
+Prerequisites: harmful font or healing font; deity that allows clerics to have both fonts
+
+As you explore your deity’s aspects, you move beyond restrictions on healing or harming. You can prepare either harm or heal in the spell slots gained from the harmful font or healing font.
+
+Call Of The Wild:
+You call upon the creatures of nature to come to your aid. You can spend 10 minutes in concert with nature to replace one of the spells you’ve prepared in one of your druid spell slots with a summon animal or summon plants and fungus spell of the same level.
+
+Enhanced Familiar:
+Archetypes: Elementalist*, Elementalist*, Familiar Master*, Shadowcaster*
+
+Prerequisites: a familiar
+
+* This archetype offers Enhanced Familiar at a different level than displayed here.
+
+You infuse your familiar with additional magical energy. You can select four familiar or master abilities each day, instead of two.
+
+Special: (Wizard) If your arcane thesis is improved familiar attunement, your familiar's base number of familiar abilities, before adding any extra abilities from the arcane thesis, is four.
+(Witch) Add the bonus familiar abilities you gain for being a witch to this amount.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Order Explorer:
+You have learned the secrets of another druidic order, passing whatever rites of initiation that order requires and gaining access to its secrets. Choose an order other than your own. You gain a 1st-level feat that lists that order as a prerequisite, and you are now a member of that order for the purpose of meeting feat prerequisites. If you commit acts anathema to your new order, you lose all feats and abilities requiring that order but retain your other druid feats and abilities. You don’t gain any of the other benefits of the order you chose.
+
+Special: You can take this feat multiple times. Each time you do, you must choose a different order other than your own.
+
+Poison Resistance:
+Archetypes: Assassin*, Poisoner*
+* This archetype offers Poison Resistance at a different level than displayed here.
+
+Your body has become fortified against toxins. You gain poison resistance equal to half your level, and you gain a +1 status bonus to saving throws against poisons.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Aggressive Block:
+Actions: Free Action
+Traits: Fighter
+
+Trigger: You use the Shield Block reaction, and the opponent that triggered Shield Block is adjacent to you and is your size or smaller.
+
+You push back as you block the attack, knocking your foe away or off balance. You use your shield to push the triggering creature, either automatically Shoving it 5 feet or causing it to become flat-footed until the start of your next turn. The triggering creature chooses whether to be moved or become flat-footed. If it chooses to be moved, you choose the direction. If the Shove would cause it to hit a solid object, enter a square of difficult terrain, or enter another creature's space, it must become flat-footed instead of being moved.
+
+Assissting Shot:
+Actions: 1
+Traits: Fighter, Press
+
+Archetypes: Archer*, Sniping Duo*
+
+Requirements: You are wielding a ranged weapon.
+
+* This archetype offers Assisting Shot at a different level than displayed here.
+
+With a quick shot, you interfere with a foe in combat. Make a Strike with a ranged weapon. If the Strike hits, the next creature other than you to attack the same target before the start of your next turn gains a +1 circumstance bonus to their roll, or a +2 circumstance bonus if your Strike was a critical hit.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Brutish Shove:
+Actions: 1
+Traits: Fighter, Press
+
+Requirements: You are wielding a two-handed melee weapon.
+
+Throwing your weight behind your attack, you hit your opponent hard enough to make it stumble back. Make a Strike with a two-handed melee weapon. If you hit a target that is your size or smaller, that creature is flat-footed until the end of your current turn, and you can automatically Shove it, with the same benefits as the Shove action (including the critical success effect, if your Strike was a critical hit). If you move to follow the target, your movement doesn't trigger reactions.
+
+This Strike has the following failure effect.
+
+Failure: The target becomes flat-footed until the end of your current turn.
+
+Combat Grab:
+Actions: 1
+Traits: Fighter, Press
+
+Archetypes: Wrestler*, Zombie*
+
+Requirements: You have one hand free, and your target is within reach of that hand.
+
+* This archetype offers Combat Grab at a different level than displayed here.
+
+You swipe at your opponent and grab at them. Make a melee Strike while keeping one hand free. If the Strike hits, you grab the target using your free hand. The creature remains grabbed until the end of your next turn or until it Escapes, whichever comes first.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Dueling Parry (Fighter): 
+Action: 1
+Traits: Fighter
+
+Archetype: Duelist*
+
+Requirements: You are wielding only a single one-handed melee weapon and have your other hand or hands free.
+
+* This archetype offers Dueling Parry (Fighter) at a different level than displayed here.
+
+You can parry attacks against you with your one-handed weapon. You gain a +2 circumstance bonus to AC until the start of your next turn as long as you continue to meet the requirements.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Intimidating Strike:
+Actions: 2
+Traits: Emotion, Fear, Fighter, Mental
+
+Your blow not only wounds creatures but also shatters their confidence. Make a melee Strike. If you hit and deal damage, the target is frightened 1, or frightened 2 on a critical hit
+
+Lunge:
+Actions: 1
+Traits: Fighter
+
+Requirements: You are wielding a melee weapon.
+
+Extending your body to its limits, you attack an enemy that would normally be beyond your reach. Make a Strike with a melee weapon, increasing your reach by 5 feet for that Strike. If the weapon has the disarm, shove, or trip trait, you can use the corresponding action instead of a Strike.
+
+Brawling Focus:
+Archetypes: Bullet Dancer*, Martial Artist*
+* This archetype offers Brawling Focus at a different level than displayed here.
+
+You know how to make the most of your attacks when fighting hand-to-hand. You gain access to the critical specialization effects of unarmed strikes in the brawling group and weapons in the brawling group. If you have Monastic Weaponry, you also gain the critical specialization effects of all monk weapons in which you are trained.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Crushing Grab:
+Archetypes: Wrestler*, Zombie*
+* This archetype offers Crushing Grab at a different level than displayed here.
+
+Like a powerful constrictor, you crush targets in your unyielding grasp. When you successfully Grapple a creature, you can deal bludgeoning damage to that creature equal to your Strength modifier. You can make this attack nonlethal with no penalty.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Dancing Leaf:
+You are as light as a leaf whirling in the breeze. When you Leap or succeed at a High Jump or Long Jump, increase the distance you jump by 5 feet. When calculating the damage you take from falling, don’t count any distance fallen while you are adjacent to a wall.
+
+Elemental Fist:
+Prerequisites: Ki Strike
+
+You call upon the power of the elements, infusing your ki with elemental energy and allowing your attacks to deal energy damage. When you cast ki strike, in addition to the damage types normally available, you can deliver the extra damage in the form of a gust of storm-tossed wind (dealing electricity damage and gaining the air trait), a chunk of stone (dealing bludgeoning damage and gaining the earth trait), a flickering flame (dealing fire damage), or a crashing wave of frigid water (dealing cold damage and gaining the water trait).
+
+Stunning Fist:
+Prerequisites: Flurry of Blows
+
+The focused power of your flurry threatens to overwhelm your opponent. When you target the same creature with two Strikes from your Flurry of Blows, you can try to stun the creature. If either Strike hits and deals damage, the target must succeed at a Fortitude save against your class DC or be stunned 1 (or stunned 3 on a critical failure). This is an incapacitation effect.
+
+Favored Terrain:
+You have studied a specific terrain to overcome its challenges. Choose aquatic, arctic, desert, forest, mountain, plains, sky, swamp, or underground as your favored terrain. When in that terrain, you can ignore the effects of non-magical diffcult terrain. If you have the wild stride class feature, you gain a second benefit while in your favored terrain, depending on your choice.
+- Aquatic: You gain a swim Speed equal to your Speed. If you already had a swim Speed, you gain a +10-foot status bonus to your swim Speed.
+- Arctic: You need to eat and drink only one-tenth as much as usual, you aren’t affected by severe or extreme cold, and you can walk across ice and snow at full Speed without needing to Balance.
+- Desert: You need to eat and drink only one-tenth as much as usual, you aren’t affected by severe or extreme heat, and you can walk along sand at full Speed without needing to Balance.
+- Forest, Mountain, or Underground: You gain a climb Speed equal to your Speed. If you already had a climb Speed, you gain a +10-foot status bonus to your climb Speed.
+- Plains: You gain a +10-foot status bonus to your land Speed.
+- Sky: You gain a +10-foot status bonus to your fly Speed, if you have one.
+- Swamp: You can move across bogs at full Speed, even if they are deep enough to be greater difficult terrain or to normally require you to Swim.
+
+Hunter's Aim:
+Action: 2
+Traits: Concentrate, Ranger
+
+Archetype: Game Hunter*
+* This archetype offers Hunter's Aim at a different level than displayed here.
+
+When you focus on aiming, your attack becomes particularly accurate. Make a ranged weapon Strike against your hunted prey. On this Strike, you gain a +2 circumstance bonus to the attack roll and ignore your prey’s concealed condition.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Monster Warden:
+Prerequisites: Monster Hunter
+
+You understand how to defend yourself and others against your prey. When you grant bonuses from Monster Hunter, you and your allies also each gain a +1 circumstance bonus to your next saving throw against that particular creature and to your AC against that creature’s next attack against you.
+
+Quick Draw:
+Actions: 1
+Traits: Gunslinger, Ranger, Rogue
+Archetypes: Alkenstar Agent*, Butterfly Blade*, Vigilante*
+* This archetype offers Quick Draw at a different level than displayed here.
+
+You draw your weapon and attack with the same motion. You Interact to draw a weapon, then Strike with that weapon.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Wild Empathy:
+Archetypes: Beastmaster*, Mammoth Lord*
+* This archetype offers Wild Empathy at a different level than displayed here.
+
+You have a connection to the creatures of the natural world that allows you to communicate with them on a rudimentary level. You can use Diplomacy to Make an Impression on animals and to make very simple Requests of them. In most cases, wild animals will give you time to make your case.
+
+Archetype Use: This feat can be used for one or more Archetypes in addition to the listed Classes. When selected this way, the feat is not considered to have its class traits.
+
+Brutal Beating:
+Prerequisites: ruffian racket
+
+The brutality of your critical hits shakes your foes’ confidence. Whenever your Strike is a critical hit and deals damage, the target is frightened 1.
+
+Distracting Feint:
+Prerequisites: scoundrel racket
+
+Your Feints are far more distracting than normal, drawing your foes’ attention and allowing you and your allies to take greater advantage. While a creature is flat-footed by your Feint, it also takes a –2 circumstance penalty to Perception checks and Reflex saves.
+
+Minor Magic:
+You’ve dabbled in minor magical abilities. Choose arcane, divine, occult, or primal magic, and gain two cantrips from the common cantrips available to that tradition. You gain the Cast a Spell activity, your key spellcasting ability is Charisma, and you’re trained in spell attack rolls and DCs for the tradition you chose.
+
+Mobility:
+You move in a way that denies your enemies the opportunity to retaliate. When you take a Stride action to move half your Speed or less, that movement does not trigger reactions. You can use Mobility when Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type.
+
+Unbalancing Blow:
+Prerequisites: thief racket
+
+Interweaving your most powerful attacks in a graceful flow, you temporarily unbalance your foes. Whenever your Strike is a critical hit and deals damage, the target is flat-footed against your attacks until the end of your next turn.
+
+Conceal Spell:
+Actions: 1
+Traits: Concentrate, Manipulate, Metamagic, Witch, Wizard
+
+Hiding your gestures and incantations within other speech and movement, you attempt to conceal the fact that you are Casting a Spell. If the next action you use is to Cast a Spell, attempt a Stealth check against one or more observers’ Perception DCs; if the spell has verbal components, you must also attempt a Deception check against the observers’ Perception DC. If you succeed at your check (or checks) against an observer’s DC, that observer doesn’t notice you’re casting a spell, even though material, somatic, and verbal components are usually noticeable and spells normally have sensory manifestations that would make spellcasting obvious to those nearby.
+
+This ability hides only the spell’s spellcasting actions and manifestations, not its effects, so an observer might still see a ray streak out from you or see you vanish into thin air.

@@ -1,0 +1,172 @@
+Contagious Rage:
+Prerequisites: Share Rage
+
+You can drive your allies into a frenzy, granting them incredible benefits. You can ignore the requirements on Share Rage, using it multiple times in a Rage. Allies affected by Share Rage who accept your anathema for the duration of the Rage gain your instinct ability and the specialization ability it gains from weapon specialization, but not greater weapon specialization.
+
+Quaking Stomp:
+Actions: 1
+Traits: Barabrian, Manipulate, Rage
+
+Frequency: once per 10 minutes
+
+You stomp the ground with such force that it creates a minor earthquake, with the effects of the earthquake spell.
+
+Fatal Aria:
+Your songs overwhelm the target with unbearable emotion, potentially striking them dead on the spot. You learn the fatal aria composition spell. Increase the number of Focus Points in your focus pool by 1.
+
+Perfect Encore:
+Prerequisites: magnum opus
+
+You develop another incredible creation. You gain an additional 10th-level spell slot.
+
+Symphony Of The Muse:
+Prerequisites: Harmonize
+
+You are able to weave countless performances together into a solo symphony. You are no longer limited to a single composition each turn or a single composition at a time; when you use a new composition, all previous compositions’ effects continue for their remaining duration.
+
+Celestial Mount:
+Prerequisites: divine ally (steed); tenets of good
+
+Your steed gains incredible celestial powers granted by your deity. It gains darkvision, its maximum Hit Points increase by 40, and it gains weakness 10 to evil damage.
+
+Additionally, it grows wings appropriate to a servitor of your deity (such as metallic wings for an archon), granting it a fly Speed equal to its Speed. It gains the celestial trait and the trait appropriate to the type of servitor it has become (archon, angel, or azata, for example).
+
+Radiant Blade Master:
+Prerequisites: divine ally (blade); Radiant Blade Spirit
+
+Your divine ally turns your chosen weapon into a paragon of its type. When you choose the weapon for your blade divine ally during your preparations, add the following property runes to the list of effects you can choose from: dancing, greater disrupting, and keen.
+
+Shield Paragon:
+Prerequisites: divine ally (shield)
+
+Your shield is a vessel of divine protection. When you’re wielding your chosen shield, it is always raised, even without you using the Raise a Shield action. Your chosen shield doubles its HP and BT, rather than increasing them by half. If it would be destroyed, it vanishes to your deity’s realm instead, where your divine ally repairs it. During your next daily preparations, the shield returns to you fully repaired.
+
+Avatar's Audience:
+Your extensive service has made you a lesser herald of your deity, which affords you certain privileges. First, any creature you encounter knows instinctively that you speak for your deity. Second, if you conduct the commune ritual to contact your deity, you don’t have to pay any cost and you automatically get a critical success. Third, once per day, you can cast plane shift as a divine innate spell, but only to travel to the realm of your deity. When you cast it this way, its casting time is 1 minute, your religious symbol is a sufficient tuning fork for this spell, and you appear exactly where you want to be. If you’re in your deity’s realm due to this spell, you can return to the point you left when you cast it by spending a single action, which has the concentrate and divine traits.
+
+Maker Of Miracles:
+Prerequisites: miraculous spell
+
+You are a conduit for truly deific power. You gain an additional 10th-level spell slot.
+
+Metamagic Channel:
+Actions: Free Action
+Traits: Cleric, Concentrate
+
+Deep understanding of divine revelations into the nature of vital essence allows you to freely manipulate the effects of your positive or negative energy. Use 1 metamagic action that you can perform that normally takes 1 action and can be applied to the harm or heal spell. If you use it in this way, its effects apply only to a harm or heal spell.
+
+Hierophant's Power:
+You have entwined yourself with the natural world, and its full power flows through you. You gain an additional 10th-level spell slot.
+
+Leyline Conduit:
+Actions: 1
+Traits: Concentrate, Druid, Manipulate, Metamagic
+
+Frequency: once per minute
+
+You can cast your spells effortlessly by tapping into the leylines of the world. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don’t expend the prepared spell as you cast it.
+
+True Shapeshifter:
+Actions: 2
+Traits: Concentrate, Druid
+
+Prerequisites: Dragon Shape; Wild Shape
+You transcend the limitations of form. While under the effects of wild shape, you can change into any other form on your wild shape list; if the durations of the forms would vary, use the shorter of the two durations.
+
+Once per day, you can transform into a kaiju, with the effects of nature incarnate; if you have Plant Shape, you can instead transform into a green man.
+
+Boundless Reprisals:
+With a sixth sense for the flow of combat, you can quickly react to any situation as required. At the start of each enemy's turn, you gain a reaction you can use only during that turn for any reaction from a fighter feat or class feature.
+
+Weapon Supremacy:
+Your skill with weapons lets you attack swiftly at all times. You’re permanently quickened. You can use your extra action only to Strike.
+
+Enduring Quickness:
+You move as fast and as high as the wind itself. You’re permanently quickened. You can use your extra action to Stride or Leap, or to provide one of the actions needed for a High Jump or Long Jump.
+
+Fuse Stance:
+Prerequisites: at least two stances
+
+You have combined two stances into a single stance all your own. When you take this feat, choose two stances you know and combine them into a single fused stance. Give your new fused stance a unique name. When you enter your fused stance, you gain all the effects of both stances, including the requirements and restrictions.
+
+You can't fuse stances with fundamentally incompatible requirements or restrictions (such as Mountain Stance and Crane Stance, which both require using only one type of Strike).
+
+Impossible Technique:
+Actions: Reaction
+Traits: Fortune, Monk
+
+Trigger: An enemy’s attack hits you or you fail a saving throw against an enemy’s ability.
+Requirements: You are not armored or fatigued.
+
+You execute a maneuver that defies possibility. If the triggering effect was an enemy’s attack hitting you, the enemy rerolls the attack roll and uses the lower result. If the triggering effect was you failing a saving throw, you reroll the saving throw and use the higher result.
+
+Legendary Shot:
+Prerequisites: masterful hunter; legendary in Perception; Far Shot
+
+You focus on your hunted prey, perceiving angles, air resistance, and every variable that would affect your ranged attack. If you have master proficiency with your ranged weapon, you can ignore the penalty for attacking up to five range increments away when attacking your hunted prey.
+
+To The Ends Of The Earth:
+Prerequisites: legendary in Survival
+
+Your ability to track your prey has surpassed explanation, allowing you to trace your prey’s movements and predict its location with ease. When you use Hunt Prey on a creature within 100 feet, you can follow that creature’s movements, allowing you to know the creature’s exact location no matter how far away it becomes, as long as it remains your prey. You must be legendary in Nature to track your prey’s location across teleportation or planar travel. This feat gains the detection, divination, and primal traits if you’re legendary in Nature.
+
+Triple Threat:
+Prerequisites: Shared Prey
+
+You can divide your attention three ways when hunting. When you use Hunt Prey, you can designate three creatures as prey, designate two creatures as prey and share the effect with one ally (as Shared Prey), or designate one creature as prey and share the effect with two allies.
+
+Ultimate Skirmisher:
+Prerequisites: wild stride
+
+You are so skilled at navigating the wild, your movement is completely unaffected by terrain. You ignore the effects of all difficult terrain, greater difficult terrain, and hazardous terrain, and you don’t trigger traps and hazards that are triggered by moving into an area (such as trip wires and pressure plates), unless you want to.
+
+Hidden Paragon:
+Actions: Reaction
+Traits: Rogue
+
+Frequency: once per hour
+Prerequisites: legendary in Stealth
+Trigger: You successfully use Stealth to Hide and become hidden from all of your current foes, or use Stealth to Sneak and become undetected to all your current foes.
+
+When you put your mind to slipping out of sight, you disappear completely. You become invisible for 1 minute, even if you use a hostile action. Not even glitterdust, see invisibility, or similar effects can reveal you, though creatures can still use the Seek action to locate you as normal.
+
+Impossible Striker:
+Prerequisites: Sly Striker
+
+Your attacks are swift and deadly beyond explanation. Nothing can prevent you from making a sneak attack, even if your opponent can see every blow coming. Instead of dealing the damage from Sly Striker, you can deal your full sneak attack damage to a target even if the target isn’t flat-footed.
+
+Reactive Distraction:
+Actions: Reaction
+Traits: Concentrate, Manipukate, Rogue
+
+Prerequisites: legendary in Deception; Perfect Distraction
+Trigger: You would be hit by an attack or targeted by an effect, or you are within an effect’s area.
+Requirements: You have Perfect Distraction ready to use.
+
+You reactively switch with your decoy to foil your foe. You use Perfection Distraction, even if you were observed, as long as you end the movement of your Sneak while concealed or in a location with cover or greater cover. Your decoy is targeted by the attack or effect instead of you. In the case of an area effect, if your Sneak doesn’t move you out of the area, both you and the decoy are targeted by the effect.
+
+Bloodline Conduit:
+ACtions: 1
+Traits: Metamagic, Sorcerer
+
+Frequency: once per minute
+
+Your inborn magical nature lets you redirect ambient energies to fuel your spells. If your next action is to Cast a Spell of 5th level or lower that has no duration, you don’t expend the spell’s slot when you cast it.
+
+Bloodline Perfection:
+Prerequisites: bloodline paragon
+
+You command the ultimate powers of your bloodline and tradition. You gain an additional 10th-level spell slot.
+
+Metamagic Mastery:
+Altering your spells doesn’t take any longer than casting them normally. You can use metamagic single actions as free actions.
+
+Archwizard's Might:
+Prerequisites: archwizard's spellcraft
+
+You have mastered the greatest secrets of arcane magic. You gain an additional 10th-level spell slot.
+
+Spell Combination:
+You can merge spells, producing multiple effects with a single casting. One slot of each level of spell you can cast, except 2nd level and 1st level, becomes a spell combination slot (this doesn’t apply to cantrips). When you prepare your spells, you can fill a combination slot with a combination of two spells. Each spell in the combination must be 2 or more spell levels below the slot’s level, and both must target only one creature or object or have the option to target only one creature or object. Each spell in the combination must also have the same means of determining whether it has an effect—both spells must require a ranged spell attack roll, require the same type of saving throw, or automatically affect the target.
+
+When you cast a combined spell, it affects only one target, even if the component spells normally affect more than one. If any spell in the combination has further restrictions (such as targeting only living creatures), you must abide by all restrictions. The combined spell uses the shorter of the component spells’ ranges. Resolve a combined spell as if were a single spell, but apply the effects of both component spells. For example, if the spell’s target succeeded at the save against a combined spell, it would apply the success effect of each spell, and if it critically failed, it would apply the critical failure effect of both spells.

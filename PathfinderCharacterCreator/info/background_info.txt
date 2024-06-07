@@ -1,0 +1,83 @@
+Acolyte:
+You spent your early days in a religious monastery or cloister. You may have traveled out into the world to spread the message of your religion or because you cast away the teachings of your faith, but deep down you’ll always carry within you the lessons you learned.
+
+Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
+
+You're trained in the Religion skill, and the Scribing Lore skill. You gain the Student of the Canon skill feat.
+
+Artisan:
+As an apprentice, you practiced a particular form of building or crafting, developing specialized skill. You might have been a blacksmith’s apprentice toiling over the forge for countless hours, a young tailor sewing garments of all kinds, or a shipwright shaping the hulls of ships.
+
+Choose two ability boosts. One must be to Strength or Intelligence, and one is a free ability boost.
+
+You're trained in the Crafting skill, and the Guild Lore skill. You gain the Specialty Crafting skill feat.
+
+Barrister:
+Piles of legal manuals, stern teachers, and experience in the courtroom have instructed you in legal matters. You’re capable of mounting a prosecution or defense in court, and you tend to keep abreast of local laws, as you never can tell when you might need to know them on short notice.
+
+Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
+
+You're trained in the Diplomacy skill, and the Legal Lore skill. You gain the Group Impression skill feat.
+
+Bounty Hunter:
+Bringing in lawbreakers lined your pockets. Maybe you had an altruistic motive and sought to bring in criminals to make the streets safer, or maybe the coin was motivation enough. Your techniques for hunting down criminals transfer easily to the life of an adventurer.
+
+Choose two ability boosts. One must be to Strength or Wisdom, and one is a free ability boost.
+
+You're trained in the Survival skill, and the Legal Lore skill. You gain the Experienced Tracker skill feat.
+
+Criminal:
+As an unscrupulous independent or as a member of an underworld organization, you lived a life of crime. You might have become an adventurer to seek redemption, to escape the law, or simply to get access to bigger and better loot.
+
+Choose two ability boosts. One must be to Dexterity or Intelligence, and one is a free ability boost.
+
+You're trained in the Stealth skill, and the Underworld Lore skill. You gain the Experienced Smuggler skill feat.
+
+Entertainer:
+Through an education in the arts or sheer dogged practice, you learned to entertain crowds. You might have been an actor, a dancer, a musician, a street magician, or any other sort of performer.
+
+Choose two ability boosts. One must be to Dexterity or Charisma, and one is a free ability boost.
+
+You're trained in the Performance skill, and the Theater Lore skill. You gain the Fascinating Performance skill feat.
+
+Guard:
+You served in the guard, out of either patriotism or the need for coin. Either way, you know how to get a difficult suspect to talk. However you left the guard, you might think of adventuring as a way to use your skills on a wider stage.
+
+Choose two ability boosts. One must be to Strength or Charisma, and one is a free ability boost.
+
+You're trained in the Intimidation skill, and the Legal Lore skill or Warfare Lore skill. You gain the Quick Coercion skill feat.
+
+Herbalist:
+As a formally trained apothecary or a rural practitioner of folk medicine, you learned the healing properties of various herbs. You’re adept at collecting the right natural cures in all sorts of environments and preparing them properly.
+
+Choose two ability boosts. One must be to Constitution or Wisdom, and one is a free ability boost.
+
+You're trained in the Nature skill, and the Herbalism Lore skill. You gain the Natural Medicine skill feat.
+
+Merchant:
+In a dusty shop, market stall, or merchant caravan, you bartered wares for coin and trade goods. The skills you picked up still apply in the adventuring life, in which a good deal on a suit of armor could prevent your death.
+
+Choose two ability boosts. One must be to Intelligence or Charisma, and one is a free ability boost.
+
+You're trained in the Diplomacy skill, and the Mercantile Lore skill. You gain the Bargain Hunter skill feat.
+
+Sailor:
+You heard the call of the sea from a young age. Perhaps you signed onto a merchant’s vessel, joined the navy, or even fell in with a crew of pirates and scalawags.
+
+Choose two ability boosts. One must be to Strength or Dexterity, and one is a free ability boost.
+
+You're trained in the Athletics skill, and the Sailing Lore skill. You gain the Underwater Marauder skill feat.
+
+Scholar:
+You have a knack for learning, and sequestered yourself from the outside world to learn all you could. You read about so many wondrous places and things in your books, and always dreamed about one day seeing the real things. Eventually, that curiosity led you to leave your studies and become an adventurer.
+
+Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
+
+You’re trained in your choice of the Arcana, Nature, Occultism, or Religion skill, and the Academia Lore skill. You gain the Assurance skill feat in your chosen skill.
+
+Warrior:
+In your younger days, you waded into battle as a mercenary, a warrior defending a nomadic people, or a member of a militia or army. You might have wanted to break out from the regimented structure of these forces, or you could have always been as independent a warrior as you are now.
+
+Choose two ability boosts. One must be to Strength or Constitution, and one is a free ability boost.
+
+You're trained in the Intimidation skill, and the Warfare Lore skill. You gain the Intimidating Glare skill feat.
